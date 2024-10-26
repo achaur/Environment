@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			
+			<!-- ProgramData folder -->
+			<Directory Id="CommonAppDataFolder">
+				<Directory Id="AutodeskFolder" Name="Autodesk">
+					<Directory Id="RevitFolder" Name="Revit">
+						<Directory Id="AddinsFolder" Name="Addins">
+							<Directory Id="INSTALLFOLDER" Name="2020">
+								<Directory Id="ENVIRONMNET_FOLDER_2020" Name="Environment"/>
+							</Directory>
+                            <Directory Id="INSTALLFOLDER_2021" Name="2021">
+								<Directory Id="ENVIRONMNET_FOLDER_2021" Name="Environment"/>
+							</Directory>
+                            <Directory Id="INSTALLFOLDER_2022" Name="2022">
+								<Directory Id="ENVIRONMNET_FOLDER_2022" Name="Environment"/>
+							</Directory>
+                            <Directory Id="INSTALLFOLDER_2023" Name="2023">
+								<Directory Id="ENVIRONMNET_FOLDER_2023" Name="Environment"/>
+							</Directory>
+                            <Directory Id="INSTALLFOLDER_2024" Name="2024">
+								<Directory Id="ENVIRONMNET_FOLDER_2024" Name="Environment"/>
+							</Directory>
+							<Directory Id="INSTALLFOLDER_2025" Name="2025">
+								<Directory Id="ENVIRONMNET_FOLDER_2025" Name="Environment"/>
+							</Directory>
+						</Directory>
+					</Directory>
+				</Directory>
+			</Directory>
+		</Directory>
+	</Fragment>
+</Wix>

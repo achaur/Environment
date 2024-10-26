@@ -1,0 +1,745 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D868CF7-AED1-4043-AFA8-B12DABE06516}|R2022\\R2022.csproj|c:\\users\\nastya\\desktop\\coding\\environment\\bim-leaders-plugin\\r2022\\formatutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D868CF7-AED1-4043-AFA8-B12DABE06516}|R2022\\R2022.csproj|solutionrelative:r2022\\formatutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Environment||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Environment.Core||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment\\environment.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|solutionrelative:environment\\environment.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Environment.UI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Environment.Resources||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Environment.Logic||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|R2022||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment.windows\\views\\rotatefamiliesform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\views\\rotatefamiliesform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|c:\\users\\nastya\\desktop\\coding\\environment\\bim-leaders-plugin\\environment.windows\\styles\\combobox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\styles\\combobox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|c:\\users\\nastya\\desktop\\coding\\environment\\bim-leaders-plugin\\environment.windows\\styles\\checkbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\styles\\checkbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|c:\\users\\nastya\\desktop\\coding\\environment\\bim-leaders-plugin\\environment.windows\\styles\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\styles\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment.windows\\viewmodels\\rotatefamiliesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\viewmodels\\rotatefamiliesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008378C8-9C0F-46AF-907A-6B9A23591212}|R2020\\R2020.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\r2020\\formatutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008378C8-9C0F-46AF-907A-6B9A23591212}|R2020\\R2020.csproj|solutionrelative:r2020\\formatutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|Environment.Logic\\Environment.Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment.logic\\utils\\revitversioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|Environment.Logic\\Environment.Logic.csproj|solutionrelative:environment.logic\\utils\\revitversioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|Environment.Logic\\Environment.Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment.logic\\models\\rotatefamiliesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|Environment.Logic\\Environment.Logic.csproj|solutionrelative:environment.logic\\models\\rotatefamiliesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|Environment.Logic\\Environment.Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment.logic\\modelesseventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|Environment.Logic\\Environment.Logic.csproj|solutionrelative:environment.logic\\modelesseventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|solutionrelative:environment\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment\\setupinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|solutionrelative:environment\\setupinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment.windows\\views\\rotatefamiliesform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\views\\rotatefamiliesform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Setup\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|solutionrelative:Environment.Setup\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Setup\\Directories.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|solutionrelative:Environment.Setup\\Directories.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Setup\\Components.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|solutionrelative:Environment.Setup\\Components.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\BIM Leaders Setup\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BIM Leaders Setup\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\packages\\WiX.3.11.2\\tools\\wix2010.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\WiX.3.11.2\\tools\\wix2010.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6CF1C2-84B4-4342-895D-277C481DCDD1}|Environment.Resources\\Environment.Resources.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment.resources\\versionhandler.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F6CF1C2-84B4-4342-895D-277C481DCDD1}|Environment.Resources\\Environment.Resources.csproj|solutionrelative:environment.resources\\versionhandler.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment.windows\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|Environment.Logic\\Environment.Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment.logic\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|Environment.Logic\\Environment.Logic.csproj|solutionrelative:environment.logic\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment.windows\\converters\\multivalueboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\converters\\multivalueboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE61C151-BF4C-41A7-B29C-45D042E6EA0F}|Environment.UI\\Environment.UI.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment.ui\\revit\\pushbuttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE61C151-BF4C-41A7-B29C-45D042E6EA0F}|Environment.UI\\Environment.UI.csproj|solutionrelative:environment.ui\\revit\\pushbuttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6CF1C2-84B4-4342-895D-277C481DCDD1}|Environment.Resources\\Environment.Resources.csproj|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\environment.resources\\resourceimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6CF1C2-84B4-4342-895D-277C481DCDD1}|Environment.Resources\\Environment.Resources.csproj|solutionrelative:environment.resources\\resourceimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Utils\\SolidsUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Environment.Logic\\Utils\\SolidsUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Utils\\StairsUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Environment.Logic\\Utils\\StairsUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Utils\\ExceptionUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Environment.Logic\\Utils\\ExceptionUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Revit\\RevitPulldownButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Environment.UI\\Revit\\RevitPulldownButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\ResourceSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Environment.Resources\\ResourceSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\BaseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Environment.Logic\\BaseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\CommandsAvailability\\ViewIsPlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Environment.Core\\CommandsAvailability\\ViewIsPlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\CommandsAvailability\\DocumentIsFamily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Environment.Core\\CommandsAvailability\\DocumentIsFamily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Commands\\PanelStandards\\RotateFamilies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Environment.Core\\Commands\\PanelStandards\\RotateFamilies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Commands\\BaseCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Environment.Core\\Commands\\BaseCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D868CF7-AED1-4043-AFA8-B12DABE06516}|R2022\\R2022.csproj|c:\\users\\nastya\\desktop\\coding\\environment\\bim-leaders-plugin\\r2022\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|c:\\users\\nastya\\desktop\\coding\\environment\\bim-leaders-plugin\\environment\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|Environment.Logic\\Environment.Logic.csproj|c:\\users\\nastya\\desktop\\coding\\environment\\bim-leaders-plugin\\environment.logic\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6CF1C2-84B4-4342-895D-277C481DCDD1}|Environment.Resources\\Environment.Resources.csproj|c:\\users\\nastya\\desktop\\coding\\environment\\bim-leaders-plugin\\environment.resources\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE61C151-BF4C-41A7-B29C-45D042E6EA0F}|Environment.UI\\Environment.UI.csproj|c:\\users\\nastya\\desktop\\coding\\environment\\bim-leaders-plugin\\environment.ui\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|Environment.Core\\Environment.Core.csproj|c:\\users\\nastya\\desktop\\coding\\environment\\bim-leaders-plugin\\environment.core\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Environment.Resources",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj",
+              "RelativeDocumentMoniker": "Environment.Resources\\Environment.Resources.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj",
+              "RelativeToolTip": "Environment.Resources\\Environment.Resources.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:40:36.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Environment.UI",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj",
+              "RelativeDocumentMoniker": "Environment.UI\\Environment.UI.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj",
+              "RelativeToolTip": "Environment.UI\\Environment.UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:40:42.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Environment.Core",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj",
+              "RelativeDocumentMoniker": "Environment.Core\\Environment.Core.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj",
+              "RelativeToolTip": "Environment.Core\\Environment.Core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:41:10.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Environment.addin",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.addin",
+              "RelativeDocumentMoniker": "Environment\\Environment.addin",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.addin",
+              "RelativeToolTip": "Environment\\Environment.addin",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2024-10-25T20:42:21.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormatUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\FormatUtils.cs",
+              "RelativeDocumentMoniker": "R2022\\FormatUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\FormatUtils.cs",
+              "RelativeToolTip": "R2022\\FormatUtils.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:59:48.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Environment",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.csproj",
+              "RelativeDocumentMoniker": "Environment\\Environment.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.csproj",
+              "RelativeToolTip": "Environment\\Environment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:31:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Environment.Logic",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj",
+              "RelativeDocumentMoniker": "Environment.Logic\\Environment.Logic.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj",
+              "RelativeToolTip": "Environment.Logic\\Environment.Logic.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:40:26.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "R2022",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\R2022.csproj",
+              "RelativeDocumentMoniker": "R2022\\R2022.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\R2022.csproj",
+              "RelativeToolTip": "R2022\\R2022.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T16:17:46.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RotateFamiliesForm.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Views\\RotateFamiliesForm.xaml",
+              "RelativeDocumentMoniker": "Environment.Windows\\Views\\RotateFamiliesForm.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Views\\RotateFamiliesForm.xaml",
+              "RelativeToolTip": "Environment.Windows\\Views\\RotateFamiliesForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T14:36:20.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormatUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2020\\FormatUtils.cs",
+              "RelativeDocumentMoniker": "R2020\\FormatUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2020\\FormatUtils.cs",
+              "RelativeToolTip": "R2020\\FormatUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:56:57.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Button.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Styles\\Button.xaml",
+              "RelativeDocumentMoniker": "Environment.Windows\\Styles\\Button.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Styles\\Button.xaml",
+              "RelativeToolTip": "Environment.Windows\\Styles\\Button.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T18:02:38.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ComboBox.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Styles\\ComboBox.xaml",
+              "RelativeDocumentMoniker": "Environment.Windows\\Styles\\ComboBox.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Styles\\ComboBox.xaml",
+              "RelativeToolTip": "Environment.Windows\\Styles\\ComboBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T18:03:24.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckBox.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Styles\\CheckBox.xaml",
+              "RelativeDocumentMoniker": "Environment.Windows\\Styles\\CheckBox.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Styles\\CheckBox.xaml",
+              "RelativeToolTip": "Environment.Windows\\Styles\\CheckBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T18:03:10.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RotateFamiliesModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Models\\RotateFamiliesModel.cs",
+              "RelativeDocumentMoniker": "Environment.Logic\\Models\\RotateFamiliesModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Models\\RotateFamiliesModel.cs",
+              "RelativeToolTip": "Environment.Logic\\Models\\RotateFamiliesModel.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwEYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:51:57.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RotateFamiliesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\ViewModels\\RotateFamiliesViewModel.cs",
+              "RelativeDocumentMoniker": "Environment.Windows\\ViewModels\\RotateFamiliesViewModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\ViewModels\\RotateFamiliesViewModel.cs",
+              "RelativeToolTip": "Environment.Windows\\ViewModels\\RotateFamiliesViewModel.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAADwv38AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:05:14.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RevitVersionControl.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Utils\\RevitVersionControl.cs",
+              "RelativeDocumentMoniker": "Environment.Logic\\Utils\\RevitVersionControl.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Utils\\RevitVersionControl.cs",
+              "RelativeToolTip": "Environment.Logic\\Utils\\RevitVersionControl.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:53:24.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "wix2010.targets",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\packages\\WiX.3.11.2\\tools\\wix2010.targets",
+              "RelativeDocumentMoniker": "packages\\WiX.3.11.2\\tools\\wix2010.targets",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\packages\\WiX.3.11.2\\tools\\wix2010.targets",
+              "RelativeToolTip": "packages\\WiX.3.11.2\\tools\\wix2010.targets",
+              "ViewState": "AQIAAKMDAAAAAAAAAAAuwBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-25T21:43:41.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModelessEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\ModelessEventHandler.cs",
+              "RelativeDocumentMoniker": "Environment.Logic\\ModelessEventHandler.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\ModelessEventHandler.cs",
+              "RelativeToolTip": "Environment.Logic\\ModelessEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:51:00.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Main.cs",
+              "RelativeDocumentMoniker": "Environment\\Main.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Main.cs",
+              "RelativeToolTip": "Environment\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:57:09.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SetupInterface.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\SetupInterface.cs",
+              "RelativeDocumentMoniker": "Environment\\SetupInterface.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\SetupInterface.cs",
+              "RelativeToolTip": "Environment\\SetupInterface.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:44:42.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RotateFamilies.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Commands\\PanelStandards\\RotateFamilies.cs",
+              "RelativeDocumentMoniker": "Environment.Core\\Commands\\PanelStandards\\RotateFamilies.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Commands\\PanelStandards\\RotateFamilies.cs",
+              "RelativeToolTip": "Environment.Core\\Commands\\PanelStandards\\RotateFamilies.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:35:56.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.wxs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\BIM Leaders Setup\\Product.wxs",
+              "RelativeDocumentMoniker": "BIM Leaders Setup\\Product.wxs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\BIM Leaders Setup\\Product.wxs",
+              "RelativeToolTip": "BIM Leaders Setup\\Product.wxs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-25T21:57:26.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RotateFamiliesForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Views\\RotateFamiliesForm.xaml.cs",
+              "RelativeDocumentMoniker": "Environment.Windows\\Views\\RotateFamiliesForm.xaml.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Views\\RotateFamiliesForm.xaml.cs",
+              "RelativeToolTip": "Environment.Windows\\Views\\RotateFamiliesForm.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:34:04.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.wxs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Setup\\Product.wxs",
+              "RelativeDocumentMoniker": "Environment.Setup\\Product.wxs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Setup\\Product.wxs",
+              "RelativeToolTip": "Environment.Setup\\Product.wxs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:38:07.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Directories.wxs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Setup\\Directories.wxs",
+              "RelativeDocumentMoniker": "Environment.Setup\\Directories.wxs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Setup\\Directories.wxs",
+              "RelativeToolTip": "Environment.Setup\\Directories.wxs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:46:31.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Components.wxs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Setup\\Components.wxs",
+              "RelativeDocumentMoniker": "Environment.Setup\\Components.wxs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Setup\\Components.wxs",
+              "RelativeToolTip": "Environment.Setup\\Components.wxs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwEoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:38:11.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BaseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Commands\\BaseCommand.cs",
+              "RelativeDocumentMoniker": "Environment.Core\\Commands\\BaseCommand.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Commands\\BaseCommand.cs",
+              "RelativeToolTip": "Environment.Core\\Commands\\BaseCommand.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwEEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:36:57.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SolidsUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Utils\\SolidsUtils.cs",
+              "RelativeDocumentMoniker": "Environment.Logic\\Utils\\SolidsUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Utils\\SolidsUtils.cs",
+              "RelativeToolTip": "Environment.Logic\\Utils\\SolidsUtils.cs",
+              "ViewState": "AQIAANoBAAAAAAAAAIA1wB4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:59:24.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StairsUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Utils\\StairsUtils.cs",
+              "RelativeDocumentMoniker": "Environment.Logic\\Utils\\StairsUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Utils\\StairsUtils.cs",
+              "RelativeToolTip": "Environment.Logic\\Utils\\StairsUtils.cs",
+              "ViewState": "AQIAABMDAAAAAAAAAABRwBYDAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:58:22.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VersionHandler.tt",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\VersionHandler.tt",
+              "RelativeDocumentMoniker": "Environment.Resources\\VersionHandler.tt",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\VersionHandler.tt",
+              "RelativeToolTip": "Environment.Resources\\VersionHandler.tt",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-25T20:53:51.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Environment.Windows\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "Environment.Windows\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABRwAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:05:17.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ExceptionUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Utils\\ExceptionUtils.cs",
+              "RelativeDocumentMoniker": "Environment.Logic\\Utils\\ExceptionUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Utils\\ExceptionUtils.cs",
+              "RelativeToolTip": "Environment.Logic\\Utils\\ExceptionUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:59:44.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\app.config",
+              "RelativeDocumentMoniker": "Environment.Logic\\app.config",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\app.config",
+              "RelativeToolTip": "Environment.Logic\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-25T20:52:46.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MultivalueBoolConverter.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Converters\\MultivalueBoolConverter.cs",
+              "RelativeDocumentMoniker": "Environment.Windows\\Converters\\MultivalueBoolConverter.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Converters\\MultivalueBoolConverter.cs",
+              "RelativeToolTip": "Environment.Windows\\Converters\\MultivalueBoolConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:50:45.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RevitPulldownButton.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Revit\\RevitPulldownButton.cs",
+              "RelativeDocumentMoniker": "Environment.UI\\Revit\\RevitPulldownButton.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Revit\\RevitPulldownButton.cs",
+              "RelativeToolTip": "Environment.UI\\Revit\\RevitPulldownButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:49:18.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ResourceSound.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\ResourceSound.cs",
+              "RelativeDocumentMoniker": "Environment.Resources\\ResourceSound.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\ResourceSound.cs",
+              "RelativeToolTip": "Environment.Resources\\ResourceSound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:49:30.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PushButtonManager.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Revit\\PushButtonManager.cs",
+              "RelativeDocumentMoniker": "Environment.UI\\Revit\\PushButtonManager.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Revit\\PushButtonManager.cs",
+              "RelativeToolTip": "Environment.UI\\Revit\\PushButtonManager.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAawIEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:48:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResourceImage.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\ResourceImage.cs",
+              "RelativeDocumentMoniker": "Environment.Resources\\ResourceImage.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\ResourceImage.cs",
+              "RelativeToolTip": "Environment.Resources\\ResourceImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:48:02.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Environment.Logic\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\BaseModel.cs",
+              "RelativeToolTip": "Environment.Logic\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:46:51.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ViewIsPlan.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\CommandsAvailability\\ViewIsPlan.cs",
+              "RelativeDocumentMoniker": "Environment.Core\\CommandsAvailability\\ViewIsPlan.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\CommandsAvailability\\ViewIsPlan.cs",
+              "RelativeToolTip": "Environment.Core\\CommandsAvailability\\ViewIsPlan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:46:42.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DocumentIsFamily.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\CommandsAvailability\\DocumentIsFamily.cs",
+              "RelativeDocumentMoniker": "Environment.Core\\CommandsAvailability\\DocumentIsFamily.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\CommandsAvailability\\DocumentIsFamily.cs",
+              "RelativeToolTip": "Environment.Core\\CommandsAvailability\\DocumentIsFamily.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:46:14.867Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 492,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f2e84780-2af1-11d1-a7fa-00a0c9110051}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment\obj\2023\Environment.csproj.AssemblyReference.cache
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment\obj\2023\Environment.csproj.CoreCompileInputs.cache

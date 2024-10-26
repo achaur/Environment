@@ -1,0 +1,55 @@
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\obj\2024\BIM Leaders UI.csproj.AssemblyReference.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\obj\2024\BIM_Leaders_UI.Properties.Resources.resources
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\obj\2024\BIM Leaders UI.csproj.GenerateResource.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\obj\2024\BIM Leaders UI.csproj.CoreCompileInputs.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders UI.dll.config
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders UI.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders UI.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\MaterialDesignColors.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\MaterialDesignThemes.Wpf.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\MaterialDesignColors.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\MaterialDesignThemes.Wpf.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\MaterialDesignThemes.Wpf.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\obj\2024\BIM Leaders UI.csproj.CopyComplete
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\obj\2024\BIM Leaders UI.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\obj\2024\BIM Leaders UI.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders Core.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders Resources.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders Logic.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders Windows.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\NetTopologySuite.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders Utils.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\System.Memory.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\System.Buffers.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\EPPlus.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Google.Apis.Sheets.v4.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Google.Apis.Auth.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Google.Apis.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Google.Apis.Core.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Newtonsoft.Json.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\System.Numerics.Vectors.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\EPPlus.Interfaces.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\EPPlus.System.Drawing.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Microsoft.IO.RecyclableMemoryStream.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders Core.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders Core.dll.config
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders Resources.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders Logic.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders Logic.dll.config
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders Windows.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders Windows.dll.config
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\NetTopologySuite.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\BIM Leaders Utils.dll.config
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\System.Buffers.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\EPPlus.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Google.Apis.Sheets.v4.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Google.Apis.Sheets.v4.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Google.Apis.Auth.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Google.Apis.Auth.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Google.Apis.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Google.Apis.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Google.Apis.Core.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Google.Apis.Core.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Newtonsoft.Json.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\Microsoft.IO.RecyclableMemoryStream.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders UI\bin\2024\System.Runtime.CompilerServices.Unsafe.dll

@@ -1,0 +1,1407 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "MaterialDesignColors/2.0.9": {
+        "type": "package",
+        "compile": {
+          "lib/net462/MaterialDesignColors.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net462/MaterialDesignColors.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "MaterialDesignThemes/4.6.1": {
+        "type": "package",
+        "dependencies": {
+          "MaterialDesignColors": "[2.0.9, 3.0.0)"
+        },
+        "compile": {
+          "lib/net462/MaterialDesignThemes.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net462/MaterialDesignThemes.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "build/MaterialDesignThemes.targets": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "WiX/3.11.2": {
+        "type": "package",
+        "build": {
+          "build/wix.props": {}
+        }
+      },
+      "WiX.Toolset/3.9.1208": {
+        "type": "package"
+      },
+      "Environment.Core/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Logic": "1.0.0",
+          "Environment.Windows": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Core.dll": {}
+        }
+      },
+      "Environment.Logic/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "R2020": "1.0.0",
+          "R2022": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Logic.dll": {}
+        }
+      },
+      "Environment.Resources/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Environment.Resources.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Resources.dll": {}
+        }
+      },
+      "Environment.UI/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Core": "1.0.0",
+          "Environment.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.UI.dll": {}
+        }
+      },
+      "Environment.Windows/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Logic": "1.0.0",
+          "Environment.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Windows.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Windows.dll": {}
+        }
+      },
+      "R2020/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/R2020.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R2020.dll": {}
+        }
+      },
+      "R2022/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/R2022.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R2022.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "MaterialDesignColors/2.0.9": {
+        "type": "package",
+        "compile": {
+          "lib/net462/MaterialDesignColors.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net462/MaterialDesignColors.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "MaterialDesignThemes/4.6.1": {
+        "type": "package",
+        "dependencies": {
+          "MaterialDesignColors": "[2.0.9, 3.0.0)"
+        },
+        "compile": {
+          "lib/net462/MaterialDesignThemes.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net462/MaterialDesignThemes.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "build/MaterialDesignThemes.targets": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "WiX/3.11.2": {
+        "type": "package",
+        "build": {
+          "build/wix.props": {}
+        }
+      },
+      "WiX.Toolset/3.9.1208": {
+        "type": "package"
+      },
+      "Environment.Core/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Logic": "1.0.0",
+          "Environment.Windows": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Core.dll": {}
+        }
+      },
+      "Environment.Logic/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "R2020": "1.0.0",
+          "R2022": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Logic.dll": {}
+        }
+      },
+      "Environment.Resources/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Environment.Resources.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Resources.dll": {}
+        }
+      },
+      "Environment.UI/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Core": "1.0.0",
+          "Environment.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.UI.dll": {}
+        }
+      },
+      "Environment.Windows/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Logic": "1.0.0",
+          "Environment.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Windows.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Windows.dll": {}
+        }
+      },
+      "R2020/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/R2020.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R2020.dll": {}
+        }
+      },
+      "R2022/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/R2022.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R2022.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-arm64": {
+      "MaterialDesignColors/2.0.9": {
+        "type": "package",
+        "compile": {
+          "lib/net462/MaterialDesignColors.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net462/MaterialDesignColors.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "MaterialDesignThemes/4.6.1": {
+        "type": "package",
+        "dependencies": {
+          "MaterialDesignColors": "[2.0.9, 3.0.0)"
+        },
+        "compile": {
+          "lib/net462/MaterialDesignThemes.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net462/MaterialDesignThemes.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "build/MaterialDesignThemes.targets": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "WiX/3.11.2": {
+        "type": "package",
+        "build": {
+          "build/wix.props": {}
+        }
+      },
+      "WiX.Toolset/3.9.1208": {
+        "type": "package"
+      },
+      "Environment.Core/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Logic": "1.0.0",
+          "Environment.Windows": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Core.dll": {}
+        }
+      },
+      "Environment.Logic/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "R2020": "1.0.0",
+          "R2022": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Logic.dll": {}
+        }
+      },
+      "Environment.Resources/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Environment.Resources.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Resources.dll": {}
+        }
+      },
+      "Environment.UI/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Core": "1.0.0",
+          "Environment.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.UI.dll": {}
+        }
+      },
+      "Environment.Windows/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Logic": "1.0.0",
+          "Environment.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Windows.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Windows.dll": {}
+        }
+      },
+      "R2020/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/R2020.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R2020.dll": {}
+        }
+      },
+      "R2022/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/R2022.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R2022.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "MaterialDesignColors/2.0.9": {
+        "type": "package",
+        "compile": {
+          "lib/net462/MaterialDesignColors.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net462/MaterialDesignColors.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "MaterialDesignThemes/4.6.1": {
+        "type": "package",
+        "dependencies": {
+          "MaterialDesignColors": "[2.0.9, 3.0.0)"
+        },
+        "compile": {
+          "lib/net462/MaterialDesignThemes.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net462/MaterialDesignThemes.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "build/MaterialDesignThemes.targets": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "WiX/3.11.2": {
+        "type": "package",
+        "build": {
+          "build/wix.props": {}
+        }
+      },
+      "WiX.Toolset/3.9.1208": {
+        "type": "package"
+      },
+      "Environment.Core/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Logic": "1.0.0",
+          "Environment.Windows": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Core.dll": {}
+        }
+      },
+      "Environment.Logic/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "R2020": "1.0.0",
+          "R2022": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Logic.dll": {}
+        }
+      },
+      "Environment.Resources/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Environment.Resources.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Resources.dll": {}
+        }
+      },
+      "Environment.UI/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Core": "1.0.0",
+          "Environment.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.UI.dll": {}
+        }
+      },
+      "Environment.Windows/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Logic": "1.0.0",
+          "Environment.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Windows.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Windows.dll": {}
+        }
+      },
+      "R2020/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/R2020.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R2020.dll": {}
+        }
+      },
+      "R2022/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/R2022.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R2022.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "MaterialDesignColors/2.0.9": {
+        "type": "package",
+        "compile": {
+          "lib/net462/MaterialDesignColors.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net462/MaterialDesignColors.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "MaterialDesignThemes/4.6.1": {
+        "type": "package",
+        "dependencies": {
+          "MaterialDesignColors": "[2.0.9, 3.0.0)"
+        },
+        "compile": {
+          "lib/net462/MaterialDesignThemes.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net462/MaterialDesignThemes.Wpf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "build/MaterialDesignThemes.targets": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "WiX/3.11.2": {
+        "type": "package",
+        "build": {
+          "build/wix.props": {}
+        }
+      },
+      "WiX.Toolset/3.9.1208": {
+        "type": "package"
+      },
+      "Environment.Core/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Logic": "1.0.0",
+          "Environment.Windows": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Core.dll": {}
+        }
+      },
+      "Environment.Logic/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "R2020": "1.0.0",
+          "R2022": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Logic.dll": {}
+        }
+      },
+      "Environment.Resources/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Environment.Resources.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Resources.dll": {}
+        }
+      },
+      "Environment.UI/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Core": "1.0.0",
+          "Environment.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.UI.dll": {}
+        }
+      },
+      "Environment.Windows/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Environment.Logic": "1.0.0",
+          "Environment.Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Environment.Windows.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Environment.Windows.dll": {}
+        }
+      },
+      "R2020/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/R2020.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R2020.dll": {}
+        }
+      },
+      "R2022/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/R2022.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R2022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaterialDesignColors/2.0.9": {
+      "sha512": "b4tdvxPZUCKCpxeCNFnF/+2Hug2cd+/SUGYCt+RXRRrobFYZkZQsIjlbsTGy5Hup9yPMMxqFSEXGRIxCm2JZUA==",
+      "type": "package",
+      "path": "materialdesigncolors/2.0.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "images/MaterialDesignColors.Icon.png",
+        "lib/net462/MaterialDesignColors.dll",
+        "lib/net462/MaterialDesignColors.pdb",
+        "lib/net6.0/MaterialDesignColors.dll",
+        "lib/net6.0/MaterialDesignColors.pdb",
+        "lib/netcoreapp3.1/MaterialDesignColors.dll",
+        "lib/netcoreapp3.1/MaterialDesignColors.pdb",
+        "materialdesigncolors.2.0.9.nupkg.sha512",
+        "materialdesigncolors.nuspec"
+      ]
+    },
+    "MaterialDesignThemes/4.6.1": {
+      "sha512": "Yx3RxIqkwoe1rYxoUZ2iH1YdCly+dA8YAQJ5uknsUVhyVd1rgiXEn6fmtsovGaqKRZwUXGHnh4w7kRagxa8TCg==",
+      "type": "package",
+      "path": "materialdesignthemes/4.6.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/MaterialDesignThemes.targets",
+        "build/Resources/Roboto/Roboto-Black.ttf",
+        "build/Resources/Roboto/Roboto-BlackItalic.ttf",
+        "build/Resources/Roboto/Roboto-Bold.ttf",
+        "build/Resources/Roboto/Roboto-BoldItalic.ttf",
+        "build/Resources/Roboto/Roboto-Italic.ttf",
+        "build/Resources/Roboto/Roboto-Light.ttf",
+        "build/Resources/Roboto/Roboto-LightItalic.ttf",
+        "build/Resources/Roboto/Roboto-Medium.ttf",
+        "build/Resources/Roboto/Roboto-MediumItalic.ttf",
+        "build/Resources/Roboto/Roboto-Regular.ttf",
+        "build/Resources/Roboto/Roboto-Thin.ttf",
+        "build/Resources/Roboto/Roboto-ThinItalic.ttf",
+        "build/Resources/Roboto/RobotoCondensed-Bold.ttf",
+        "build/Resources/Roboto/RobotoCondensed-BoldItalic.ttf",
+        "build/Resources/Roboto/RobotoCondensed-Italic.ttf",
+        "build/Resources/Roboto/RobotoCondensed-Light.ttf",
+        "build/Resources/Roboto/RobotoCondensed-LightItalic.ttf",
+        "build/Resources/Roboto/RobotoCondensed-Regular.ttf",
+        "images/MaterialDesignThemes.Icon.png",
+        "lib/net462/MaterialDesignThemes.Wpf.dll",
+        "lib/net462/MaterialDesignThemes.Wpf.pdb",
+        "lib/net462/MaterialDesignThemes.Wpf.xml",
+        "lib/net6.0/MaterialDesignThemes.Wpf.dll",
+        "lib/net6.0/MaterialDesignThemes.Wpf.pdb",
+        "lib/net6.0/MaterialDesignThemes.Wpf.xml",
+        "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll",
+        "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.pdb",
+        "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.xml",
+        "materialdesignthemes.4.6.1.nupkg.sha512",
+        "materialdesignthemes.nuspec",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "WiX/3.11.2": {
+      "sha512": "GOGo3p5Sh+bbN+OfgbcAE/FUTK1z5YUlg4sW+fWllACWn7NZ9g6ugg4NLFq5Avz4OpmIHfitN3i3onTFnH6DlQ==",
+      "type": "package",
+      "path": "wix/3.11.2",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/wix.props",
+        "tools/LICENSE.TXT",
+        "tools/LuxTasks.dll",
+        "tools/Microsoft.Deployment.Compression.Cab.dll",
+        "tools/Microsoft.Deployment.Compression.dll",
+        "tools/Microsoft.Deployment.Resources.dll",
+        "tools/Microsoft.Deployment.WindowsInstaller.Package.dll",
+        "tools/Microsoft.Deployment.WindowsInstaller.dll",
+        "tools/ThmViewer.exe",
+        "tools/WixBalExtension.dll",
+        "tools/WixComPlusExtension.dll",
+        "tools/WixCop.exe",
+        "tools/WixDependencyExtension.dll",
+        "tools/WixDifxAppExtension.dll",
+        "tools/WixDirectXExtension.dll",
+        "tools/WixFirewallExtension.dll",
+        "tools/WixGamingExtension.dll",
+        "tools/WixHttpExtension.dll",
+        "tools/WixIIsExtension.dll",
+        "tools/WixLuxExtension.dll",
+        "tools/WixMsmqExtension.dll",
+        "tools/WixNetFxExtension.dll",
+        "tools/WixPSExtension.dll",
+        "tools/WixSqlExtension.dll",
+        "tools/WixTagExtension.dll",
+        "tools/WixTasks.dll",
+        "tools/WixUIExtension.dll",
+        "tools/WixUtilExtension.dll",
+        "tools/WixVSExtension.MSBuild12.dll",
+        "tools/WixVSExtension.MSBuild14.dll",
+        "tools/WixVSExtension.dll",
+        "tools/candle.exe",
+        "tools/candle.exe.config",
+        "tools/darice.cub",
+        "tools/dark.exe",
+        "tools/dark.exe.config",
+        "tools/difxapp_x64.wixlib",
+        "tools/difxapp_x86.wixlib",
+        "tools/doc/DTF.chm",
+        "tools/doc/DTFAPI.chm",
+        "tools/doc/Dependency.xsd",
+        "tools/doc/WiX.chm",
+        "tools/doc/bal.xsd",
+        "tools/doc/complus.xsd",
+        "tools/doc/difxapp.xsd",
+        "tools/doc/firewall.xsd",
+        "tools/doc/gaming.xsd",
+        "tools/doc/http.xsd",
+        "tools/doc/iis.xsd",
+        "tools/doc/lux.xsd",
+        "tools/doc/msmq.xsd",
+        "tools/doc/netfx.xsd",
+        "tools/doc/ps.xsd",
+        "tools/doc/sql.xsd",
+        "tools/doc/tag.xsd",
+        "tools/doc/thmutil.xsd",
+        "tools/doc/util.xsd",
+        "tools/doc/vs.xsd",
+        "tools/doc/wix.xsd",
+        "tools/doc/wixloc.xsd",
+        "tools/heat.exe",
+        "tools/heat.exe.config",
+        "tools/insignia.exe",
+        "tools/insignia.exe.config",
+        "tools/light.exe",
+        "tools/light.exe.config",
+        "tools/lit.exe",
+        "tools/lit.exe.config",
+        "tools/lux.exe",
+        "tools/lux.exe.config",
+        "tools/lux.targets",
+        "tools/melt.exe",
+        "tools/melt.exe.config",
+        "tools/mergemod.cub",
+        "tools/mergemod.dll",
+        "tools/mspatchc.dll",
+        "tools/nit.exe",
+        "tools/nit.exe.config",
+        "tools/pyro.exe",
+        "tools/pyro.exe.config",
+        "tools/retina.exe",
+        "tools/retina.exe.config",
+        "tools/sdk/BootstrapperCore.config",
+        "tools/sdk/BootstrapperCore.dll",
+        "tools/sdk/BootstrapperCore.xml",
+        "tools/sdk/DocCompiler.exe",
+        "tools/sdk/MakeSfxCA.exe",
+        "tools/sdk/MakeSfxCA.exe.config",
+        "tools/sdk/Microsoft.Deployment.Compression.Cab.dll",
+        "tools/sdk/Microsoft.Deployment.Compression.Cab.xml",
+        "tools/sdk/Microsoft.Deployment.Compression.Zip.dll",
+        "tools/sdk/Microsoft.Deployment.Compression.Zip.xml",
+        "tools/sdk/Microsoft.Deployment.Compression.dll",
+        "tools/sdk/Microsoft.Deployment.Compression.xml",
+        "tools/sdk/Microsoft.Deployment.Resources.dll",
+        "tools/sdk/Microsoft.Deployment.Resources.xml",
+        "tools/sdk/Microsoft.Deployment.WindowsInstaller.Linq.dll",
+        "tools/sdk/Microsoft.Deployment.WindowsInstaller.Linq.xml",
+        "tools/sdk/Microsoft.Deployment.WindowsInstaller.Package.dll",
+        "tools/sdk/Microsoft.Deployment.WindowsInstaller.Package.xml",
+        "tools/sdk/Microsoft.Deployment.WindowsInstaller.dll",
+        "tools/sdk/Microsoft.Deployment.WindowsInstaller.xml",
+        "tools/sdk/MsgGen.exe",
+        "tools/sdk/XsdGen.exe",
+        "tools/sdk/XsdStitch.exe",
+        "tools/sdk/inc/BalBaseBootstrapperApplication.h",
+        "tools/sdk/inc/IBootstrapperApplication.h",
+        "tools/sdk/inc/IBootstrapperBAFunction.h",
+        "tools/sdk/inc/IBootstrapperEngine.h",
+        "tools/sdk/inc/aclutil.h",
+        "tools/sdk/inc/apputil.h",
+        "tools/sdk/inc/apuputil.h",
+        "tools/sdk/inc/atomutil.h",
+        "tools/sdk/inc/balcondition.h",
+        "tools/sdk/inc/balinfo.h",
+        "tools/sdk/inc/balretry.h",
+        "tools/sdk/inc/balutil.h",
+        "tools/sdk/inc/buffutil.h",
+        "tools/sdk/inc/butil.h",
+        "tools/sdk/inc/cabcutil.h",
+        "tools/sdk/inc/cabutil.h",
+        "tools/sdk/inc/certutil.h",
+        "tools/sdk/inc/conutil.h",
+        "tools/sdk/inc/cryputil.h",
+        "tools/sdk/inc/custommsierrors.h",
+        "tools/sdk/inc/deputil.h",
+        "tools/sdk/inc/dictutil.h",
+        "tools/sdk/inc/dirutil.h",
+        "tools/sdk/inc/dlutil.h",
+        "tools/sdk/inc/dutil.h",
+        "tools/sdk/inc/eseutil.h",
+        "tools/sdk/inc/fileutil.h",
+        "tools/sdk/inc/gdiputil.h",
+        "tools/sdk/inc/iis7util.h",
+        "tools/sdk/inc/inetutil.h",
+        "tools/sdk/inc/iniutil.h",
+        "tools/sdk/inc/jsonutil.h",
+        "tools/sdk/inc/locutil.h",
+        "tools/sdk/inc/logutil.h",
+        "tools/sdk/inc/memutil.h",
+        "tools/sdk/inc/metautil.h",
+        "tools/sdk/inc/osutil.h",
+        "tools/sdk/inc/pathutil.h",
+        "tools/sdk/inc/perfutil.h",
+        "tools/sdk/inc/polcutil.h",
+        "tools/sdk/inc/procutil.h",
+        "tools/sdk/inc/regutil.h",
+        "tools/sdk/inc/resrutil.h",
+        "tools/sdk/inc/reswutil.h",
+        "tools/sdk/inc/rexutil.h",
+        "tools/sdk/inc/rmutil.h",
+        "tools/sdk/inc/rssutil.h",
+        "tools/sdk/inc/sceutil.h",
+        "tools/sdk/inc/shelutil.h",
+        "tools/sdk/inc/sqlutil.h",
+        "tools/sdk/inc/srputil.h",
+        "tools/sdk/inc/strutil.h",
+        "tools/sdk/inc/svcutil.h",
+        "tools/sdk/inc/thmutil.h",
+        "tools/sdk/inc/timeutil.h",
+        "tools/sdk/inc/uriutil.h",
+        "tools/sdk/inc/userutil.h",
+        "tools/sdk/inc/wcalog.h",
+        "tools/sdk/inc/wcautil.h",
+        "tools/sdk/inc/wcawow64.h",
+        "tools/sdk/inc/wcawrapquery.h",
+        "tools/sdk/inc/wiutil.h",
+        "tools/sdk/inc/wuautil.h",
+        "tools/sdk/inc/xmlutil.h",
+        "tools/sdk/vs2010/lib/x64/deputil.lib",
+        "tools/sdk/vs2010/lib/x64/dutil.lib",
+        "tools/sdk/vs2010/lib/x64/wcautil.lib",
+        "tools/sdk/vs2010/lib/x86/balutil.lib",
+        "tools/sdk/vs2010/lib/x86/deputil.lib",
+        "tools/sdk/vs2010/lib/x86/dutil.lib",
+        "tools/sdk/vs2010/lib/x86/wcautil.lib",
+        "tools/sdk/vs2012/lib/x64/deputil.lib",
+        "tools/sdk/vs2012/lib/x64/dutil.lib",
+        "tools/sdk/vs2012/lib/x64/wcautil.lib",
+        "tools/sdk/vs2012/lib/x86/balutil.lib",
+        "tools/sdk/vs2012/lib/x86/deputil.lib",
+        "tools/sdk/vs2012/lib/x86/dutil.lib",
+        "tools/sdk/vs2012/lib/x86/wcautil.lib",
+        "tools/sdk/vs2013/lib/x64/deputil.lib",
+        "tools/sdk/vs2013/lib/x64/dutil.lib",
+        "tools/sdk/vs2013/lib/x64/wcautil.lib",
+        "tools/sdk/vs2013/lib/x86/balutil.lib",
+        "tools/sdk/vs2013/lib/x86/deputil.lib",
+        "tools/sdk/vs2013/lib/x86/dutil.lib",
+        "tools/sdk/vs2013/lib/x86/wcautil.lib",
+        "tools/sdk/vs2015/lib/x64/deputil.lib",
+        "tools/sdk/vs2015/lib/x64/dutil.lib",
+        "tools/sdk/vs2015/lib/x64/wcautil.lib",
+        "tools/sdk/vs2015/lib/x86/balutil.lib",
+        "tools/sdk/vs2015/lib/x86/deputil.lib",
+        "tools/sdk/vs2015/lib/x86/dutil.lib",
+        "tools/sdk/vs2015/lib/x86/wcautil.lib",
+        "tools/sdk/vs2017/lib/x64/deputil.lib",
+        "tools/sdk/vs2017/lib/x64/dutil.lib",
+        "tools/sdk/vs2017/lib/x64/wcautil.lib",
+        "tools/sdk/vs2017/lib/x86/balutil.lib",
+        "tools/sdk/vs2017/lib/x86/deputil.lib",
+        "tools/sdk/vs2017/lib/x86/dutil.lib",
+        "tools/sdk/vs2017/lib/x86/wcautil.lib",
+        "tools/sdk/wix.ca.targets",
+        "tools/sdk/wix.nativeca.targets",
+        "tools/sdk/x64/sfxca.dll",
+        "tools/sdk/x86/sfxca.dll",
+        "tools/shine.exe",
+        "tools/shine.exe.config",
+        "tools/smoke.exe",
+        "tools/smoke.exe.config",
+        "tools/torch.exe",
+        "tools/torch.exe.config",
+        "tools/wconsole.dll",
+        "tools/winterop.dll",
+        "tools/wix.dll",
+        "tools/wix.targets",
+        "tools/wix200x.targets",
+        "tools/wix2010.targets",
+        "tools/x86/burn.exe",
+        "wix.3.11.2.nupkg.sha512",
+        "wix.nuspec"
+      ]
+    },
+    "WiX.Toolset/3.9.1208": {
+      "sha512": "em/53JLSYh59KY1k6uLo4CR/d/5ffe9LE0e7BWvMR+cZYkLxdzpJjabH3N9kpYtZ4UOfyu3mo4nPJUUim5tApw==",
+      "type": "package",
+      "path": "wix.toolset/3.9.1208",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/WiX.Toolset.DummyFile.txt",
+        "readme.txt",
+        "tools/Install.ps1",
+        "tools/Remove.psm1",
+        "tools/Uninstall.ps1",
+        "tools/wix/LuxTasks.dll",
+        "tools/wix/Microsoft.Deployment.Compression.Cab.dll",
+        "tools/wix/Microsoft.Deployment.Compression.dll",
+        "tools/wix/Microsoft.Deployment.Resources.dll",
+        "tools/wix/Microsoft.Deployment.WindowsInstaller.Package.dll",
+        "tools/wix/Microsoft.Deployment.WindowsInstaller.dll",
+        "tools/wix/ThmViewer.exe",
+        "tools/wix/WixBalExtension.dll",
+        "tools/wix/WixComPlusExtension.dll",
+        "tools/wix/WixCop.exe",
+        "tools/wix/WixDependencyExtension.dll",
+        "tools/wix/WixDifxAppExtension.dll",
+        "tools/wix/WixDirectXExtension.dll",
+        "tools/wix/WixFirewallExtension.dll",
+        "tools/wix/WixGamingExtension.dll",
+        "tools/wix/WixIIsExtension.dll",
+        "tools/wix/WixLuxExtension.dll",
+        "tools/wix/WixMsmqExtension.dll",
+        "tools/wix/WixNetFxExtension.dll",
+        "tools/wix/WixPSExtension.dll",
+        "tools/wix/WixSqlExtension.dll",
+        "tools/wix/WixTagExtension.dll",
+        "tools/wix/WixTasks.dll",
+        "tools/wix/WixUIExtension.dll",
+        "tools/wix/WixUtilExtension.dll",
+        "tools/wix/WixVSExtension.dll",
+        "tools/wix/candle.exe",
+        "tools/wix/candle.exe.config",
+        "tools/wix/darice.cub",
+        "tools/wix/dark.exe",
+        "tools/wix/dark.exe.config",
+        "tools/wix/difxapp_x64.wixlib",
+        "tools/wix/difxapp_x86.wixlib",
+        "tools/wix/doc/DTF.chm",
+        "tools/wix/doc/DTFAPI.chm",
+        "tools/wix/doc/Dependency.xsd",
+        "tools/wix/doc/WiX.chm",
+        "tools/wix/doc/bal.xsd",
+        "tools/wix/doc/complus.xsd",
+        "tools/wix/doc/difxapp.xsd",
+        "tools/wix/doc/firewall.xsd",
+        "tools/wix/doc/gaming.xsd",
+        "tools/wix/doc/iis.xsd",
+        "tools/wix/doc/lux.xsd",
+        "tools/wix/doc/msmq.xsd",
+        "tools/wix/doc/netfx.xsd",
+        "tools/wix/doc/ps.xsd",
+        "tools/wix/doc/sql.xsd",
+        "tools/wix/doc/tag.xsd",
+        "tools/wix/doc/thmutil.xsd",
+        "tools/wix/doc/util.xsd",
+        "tools/wix/doc/vs.xsd",
+        "tools/wix/doc/wix.xsd",
+        "tools/wix/doc/wixloc.xsd",
+        "tools/wix/heat.exe",
+        "tools/wix/heat.exe.config",
+        "tools/wix/insignia.exe",
+        "tools/wix/insignia.exe.config",
+        "tools/wix/light.exe",
+        "tools/wix/light.exe.config",
+        "tools/wix/lit.exe",
+        "tools/wix/lit.exe.config",
+        "tools/wix/lux.exe",
+        "tools/wix/lux.exe.config",
+        "tools/wix/lux.targets",
+        "tools/wix/melt.exe",
+        "tools/wix/melt.exe.config",
+        "tools/wix/mergemod.cub",
+        "tools/wix/mergemod.dll",
+        "tools/wix/mspatchc.dll",
+        "tools/wix/nit.exe",
+        "tools/wix/nit.exe.config",
+        "tools/wix/pyro.exe",
+        "tools/wix/pyro.exe.config",
+        "tools/wix/retina.exe",
+        "tools/wix/retina.exe.config",
+        "tools/wix/sdk/BootstrapperCore.config",
+        "tools/wix/sdk/BootstrapperCore.dll",
+        "tools/wix/sdk/BootstrapperCore.xml",
+        "tools/wix/sdk/DocCompiler.exe",
+        "tools/wix/sdk/MakeSfxCA.exe",
+        "tools/wix/sdk/MakeSfxCA.exe.config",
+        "tools/wix/sdk/Microsoft.Deployment.Compression.Cab.dll",
+        "tools/wix/sdk/Microsoft.Deployment.Compression.Cab.xml",
+        "tools/wix/sdk/Microsoft.Deployment.Compression.Zip.dll",
+        "tools/wix/sdk/Microsoft.Deployment.Compression.Zip.xml",
+        "tools/wix/sdk/Microsoft.Deployment.Compression.dll",
+        "tools/wix/sdk/Microsoft.Deployment.Compression.xml",
+        "tools/wix/sdk/Microsoft.Deployment.Resources.dll",
+        "tools/wix/sdk/Microsoft.Deployment.Resources.xml",
+        "tools/wix/sdk/Microsoft.Deployment.WindowsInstaller.Linq.dll",
+        "tools/wix/sdk/Microsoft.Deployment.WindowsInstaller.Linq.xml",
+        "tools/wix/sdk/Microsoft.Deployment.WindowsInstaller.Package.dll",
+        "tools/wix/sdk/Microsoft.Deployment.WindowsInstaller.Package.xml",
+        "tools/wix/sdk/Microsoft.Deployment.WindowsInstaller.dll",
+        "tools/wix/sdk/Microsoft.Deployment.WindowsInstaller.xml",
+        "tools/wix/sdk/MsgGen.exe",
+        "tools/wix/sdk/XsdGen.exe",
+        "tools/wix/sdk/XsdStitch.exe",
+        "tools/wix/sdk/inc/BalBaseBootstrapperApplication.h",
+        "tools/wix/sdk/inc/IBootstrapperApplication.h",
+        "tools/wix/sdk/inc/IBootstrapperBAFunction.h",
+        "tools/wix/sdk/inc/IBootstrapperEngine.h",
+        "tools/wix/sdk/inc/aclutil.h",
+        "tools/wix/sdk/inc/apuputil.h",
+        "tools/wix/sdk/inc/atomutil.h",
+        "tools/wix/sdk/inc/balcondition.h",
+        "tools/wix/sdk/inc/balinfo.h",
+        "tools/wix/sdk/inc/balretry.h",
+        "tools/wix/sdk/inc/balutil.h",
+        "tools/wix/sdk/inc/buffutil.h",
+        "tools/wix/sdk/inc/butil.h",
+        "tools/wix/sdk/inc/cabcutil.h",
+        "tools/wix/sdk/inc/cabutil.h",
+        "tools/wix/sdk/inc/certutil.h",
+        "tools/wix/sdk/inc/conutil.h",
+        "tools/wix/sdk/inc/cryputil.h",
+        "tools/wix/sdk/inc/custommsierrors.h",
+        "tools/wix/sdk/inc/deputil.h",
+        "tools/wix/sdk/inc/dictutil.h",
+        "tools/wix/sdk/inc/dirutil.h",
+        "tools/wix/sdk/inc/dlutil.h",
+        "tools/wix/sdk/inc/dutil.h",
+        "tools/wix/sdk/inc/eseutil.h",
+        "tools/wix/sdk/inc/fileutil.h",
+        "tools/wix/sdk/inc/gdiputil.h",
+        "tools/wix/sdk/inc/iis7util.h",
+        "tools/wix/sdk/inc/inetutil.h",
+        "tools/wix/sdk/inc/iniutil.h",
+        "tools/wix/sdk/inc/jsonutil.h",
+        "tools/wix/sdk/inc/locutil.h",
+        "tools/wix/sdk/inc/logutil.h",
+        "tools/wix/sdk/inc/memutil.h",
+        "tools/wix/sdk/inc/metautil.h",
+        "tools/wix/sdk/inc/osutil.h",
+        "tools/wix/sdk/inc/pathutil.h",
+        "tools/wix/sdk/inc/perfutil.h",
+        "tools/wix/sdk/inc/polcutil.h",
+        "tools/wix/sdk/inc/procutil.h",
+        "tools/wix/sdk/inc/regutil.h",
+        "tools/wix/sdk/inc/resrutil.h",
+        "tools/wix/sdk/inc/reswutil.h",
+        "tools/wix/sdk/inc/rexutil.h",
+        "tools/wix/sdk/inc/rmutil.h",
+        "tools/wix/sdk/inc/rssutil.h",
+        "tools/wix/sdk/inc/sceutil.h",
+        "tools/wix/sdk/inc/shelutil.h",
+        "tools/wix/sdk/inc/sqlutil.h",
+        "tools/wix/sdk/inc/srputil.h",
+        "tools/wix/sdk/inc/strutil.h",
+        "tools/wix/sdk/inc/svcutil.h",
+        "tools/wix/sdk/inc/thmutil.h",
+        "tools/wix/sdk/inc/timeutil.h",
+        "tools/wix/sdk/inc/uriutil.h",
+        "tools/wix/sdk/inc/userutil.h",
+        "tools/wix/sdk/inc/wcalog.h",
+        "tools/wix/sdk/inc/wcautil.h",
+        "tools/wix/sdk/inc/wcawow64.h",
+        "tools/wix/sdk/inc/wcawrapquery.h",
+        "tools/wix/sdk/inc/wiutil.h",
+        "tools/wix/sdk/inc/wuautil.h",
+        "tools/wix/sdk/inc/xmlutil.h",
+        "tools/wix/sdk/vs2010/lib/x64/deputil.lib",
+        "tools/wix/sdk/vs2010/lib/x64/dutil.lib",
+        "tools/wix/sdk/vs2010/lib/x64/wcautil.lib",
+        "tools/wix/sdk/vs2010/lib/x86/balutil.lib",
+        "tools/wix/sdk/vs2010/lib/x86/deputil.lib",
+        "tools/wix/sdk/vs2010/lib/x86/dutil.lib",
+        "tools/wix/sdk/vs2010/lib/x86/wcautil.lib",
+        "tools/wix/sdk/vs2012/lib/x64/deputil.lib",
+        "tools/wix/sdk/vs2012/lib/x64/dutil.lib",
+        "tools/wix/sdk/vs2012/lib/x64/wcautil.lib",
+        "tools/wix/sdk/vs2012/lib/x86/balutil.lib",
+        "tools/wix/sdk/vs2012/lib/x86/deputil.lib",
+        "tools/wix/sdk/vs2012/lib/x86/dutil.lib",
+        "tools/wix/sdk/vs2012/lib/x86/wcautil.lib",
+        "tools/wix/sdk/vs2013/lib/x64/deputil.lib",
+        "tools/wix/sdk/vs2013/lib/x64/dutil.lib",
+        "tools/wix/sdk/vs2013/lib/x64/wcautil.lib",
+        "tools/wix/sdk/vs2013/lib/x86/balutil.lib",
+        "tools/wix/sdk/vs2013/lib/x86/deputil.lib",
+        "tools/wix/sdk/vs2013/lib/x86/dutil.lib",
+        "tools/wix/sdk/vs2013/lib/x86/wcautil.lib",
+        "tools/wix/sdk/wix.ca.targets",
+        "tools/wix/sdk/x64/sfxca.dll",
+        "tools/wix/sdk/x86/sfxca.dll",
+        "tools/wix/shine.exe",
+        "tools/wix/shine.exe.config",
+        "tools/wix/smoke.exe",
+        "tools/wix/smoke.exe.config",
+        "tools/wix/torch.exe",
+        "tools/wix/torch.exe.config",
+        "tools/wix/wconsole.dll",
+        "tools/wix/winterop.dll",
+        "tools/wix/wix.dll",
+        "tools/wix/wix.targets",
+        "tools/wix/wix200x.targets",
+        "tools/wix/wix2010.targets",
+        "tools/wix/x86/burn.exe",
+        "wix.toolset.3.9.1208.nupkg.sha512",
+        "wix.toolset.nuspec"
+      ]
+    },
+    "Environment.Core/1.0.0": {
+      "type": "project",
+      "path": "../Environment.Core/Environment.Core.csproj",
+      "msbuildProject": "../Environment.Core/Environment.Core.csproj"
+    },
+    "Environment.Logic/1.0.0": {
+      "type": "project",
+      "path": "../Environment.Logic/Environment.Logic.csproj",
+      "msbuildProject": "../Environment.Logic/Environment.Logic.csproj"
+    },
+    "Environment.Resources/1.0.0": {
+      "type": "project",
+      "path": "../Environment.Resources/Environment.Resources.csproj",
+      "msbuildProject": "../Environment.Resources/Environment.Resources.csproj"
+    },
+    "Environment.UI/1.0.0": {
+      "type": "project",
+      "path": "../Environment.UI/Environment.UI.csproj",
+      "msbuildProject": "../Environment.UI/Environment.UI.csproj"
+    },
+    "Environment.Windows/1.0.0": {
+      "type": "project",
+      "path": "../Environment.Windows/Environment.Windows.csproj",
+      "msbuildProject": "../Environment.Windows/Environment.Windows.csproj"
+    },
+    "R2020/1.0.0": {
+      "type": "project",
+      "path": "../R2020/R2020.csproj",
+      "msbuildProject": "../R2020/R2020.csproj"
+    },
+    "R2022/1.0.0": {
+      "type": "project",
+      "path": "../R2022/R2022.csproj",
+      "msbuildProject": "../R2022/R2022.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Environment.Core >= 1.0.0",
+      "Environment.Resources >= 1.0.0",
+      "Environment.UI >= 1.0.0",
+      "Environment.Windows >= 1.0.0",
+      "MaterialDesignColors >= 2.0.9",
+      "MaterialDesignThemes >= 4.6.1",
+      "Newtonsoft.Json >= 13.0.3",
+      "WiX >= 3.11.2",
+      "WiX.Toolset >= 3.9.1208"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nastya\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.csproj",
+      "projectName": "Environment",
+      "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.csproj",
+      "packagesPath": "C:\\Users\\nastya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\nastya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {
+            "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj": {
+              "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj"
+            },
+            "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj": {
+              "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj"
+            },
+            "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj": {
+              "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj"
+            },
+            "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj": {
+              "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj"
+            }
+          }
+        }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "MaterialDesignColors": {
+            "target": "Package",
+            "version": "[2.0.9, )"
+          },
+          "MaterialDesignThemes": {
+            "target": "Package",
+            "version": "[4.6.1, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          },
+          "WiX": {
+            "target": "Package",
+            "version": "[3.11.2, )"
+          },
+          "WiX.Toolset": {
+            "target": "Package",
+            "version": "[3.9.1208, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WiX' 3.11.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-7wh2-wxc7-9ph5",
+      "libraryId": "WiX",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8",
+        ".NETFramework,Version=v4.8/win",
+        ".NETFramework,Version=v4.8/win-arm64",
+        ".NETFramework,Version=v4.8/win-x64",
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WiX' 3.11.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-jx4p-m4wm-vvjg",
+      "libraryId": "WiX",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8",
+        ".NETFramework,Version=v4.8/win",
+        ".NETFramework,Version=v4.8/win-arm64",
+        ".NETFramework,Version=v4.8/win-x64",
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WiX' 3.11.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-rf39-3f98-xr7r",
+      "libraryId": "WiX",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8",
+        ".NETFramework,Version=v4.8/win",
+        ".NETFramework,Version=v4.8/win-arm64",
+        ".NETFramework,Version=v4.8/win-x64",
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    }
+  ]
+}

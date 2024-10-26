@@ -1,0 +1,137 @@
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\BIM Leaders Windows.csproj.AssemblyReference.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Fonts.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Colors.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Styles\Window.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\ImportSheetsForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\CkeckShelterForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\SheetCompositionForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DimensionSectionFloorsForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DimensionsPlanCheckForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\InsertSheetForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DwgNameDeleteForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DwgViewFoundForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\EstimateForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\JoinGeometryForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\LevelsAlignForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\NamesChangeForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\PurgeForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\ReportForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DeleteFamilyParameterForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\CheckStairFormulaForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\HeadHeightForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DimensionPlanLineForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\SliceWallsForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\SliceColumnsForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\StairsStepsEnumerateForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\TagsPlanCheckForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DimensionStairsLandingsForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\ResultForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\AlignTagsForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\WallsParallelForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\WarningsSolveForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\WallsArrangedForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\FamilyParameterSetForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\CheckerForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\WallsCompareForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\GridsAlignForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\GeneratedInternalTypeHelper.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\BIM Leaders Windows_MarkupCompile.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\BIM Leaders Windows_MarkupCompile.lref
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\BIM Leaders Windows.dll.config
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\BIM Leaders Windows.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\BIM Leaders Windows.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\BIM Leaders Logic.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\BIM Leaders Resources.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\BIM Leaders Utils.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\MaterialDesignColors.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\MaterialDesignThemes.Wpf.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Newtonsoft.Json.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\System.Text.Json.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\NetTopologySuite.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\EPPlus.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Google.Apis.Sheets.v4.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Google.Apis.Auth.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Google.Apis.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Google.Apis.Core.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\System.Memory.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\System.Text.Encodings.Web.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\System.ValueTuple.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\System.Numerics.Vectors.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\System.Threading.Tasks.Extensions.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Microsoft.Bcl.AsyncInterfaces.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\System.Buffers.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\System.Runtime.CompilerServices.Unsafe.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\EPPlus.Interfaces.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\EPPlus.System.Drawing.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Microsoft.IO.RecyclableMemoryStream.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\BIM Leaders Logic.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\BIM Leaders Logic.dll.config
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\BIM Leaders Resources.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\BIM Leaders Utils.dll.config
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\MaterialDesignColors.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\MaterialDesignThemes.Wpf.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\MaterialDesignThemes.Wpf.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\NetTopologySuite.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\EPPlus.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Google.Apis.Sheets.v4.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Google.Apis.Sheets.v4.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Google.Apis.Auth.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Google.Apis.Auth.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Google.Apis.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Google.Apis.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Google.Apis.Core.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Google.Apis.Core.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\bin\2024\Microsoft.IO.RecyclableMemoryStream.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Resources.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Styles\Button.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Styles\DataGrid.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Styles\ScrollViewer.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Styles\TabControl.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Styles\GroupBox.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Styles\ComboBox.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Styles\CheckBox.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Styles\Label.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Styles\RadioButton.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Styles\TextBlock.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Styles\TextBox.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\ImportSheetsForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\CkeckShelterForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\SheetCompositionForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DimensionSectionFloorsForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DimensionsPlanCheckForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\InsertSheetForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DwgNameDeleteForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DwgViewFoundForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\EstimateForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\JoinGeometryForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\LevelsAlignForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\NamesChangeForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\PurgeForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\ReportForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DeleteFamilyParameterForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\CheckStairFormulaForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\HeadHeightForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DimensionPlanLineForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\SliceWallsForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\SliceColumnsForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\StairsStepsEnumerateForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\TagsPlanCheckForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\DimensionStairsLandingsForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\ResultForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\AlignTagsForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\WallsParallelForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\WarningsSolveForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\WallsArrangedForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\FamilyParameterSetForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\CheckerForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\WallsCompareForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\GridsAlignForm.baml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\BIM Leaders Windows.g.resources
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\BIM_Leaders_Windows.Properties.Resources.resources
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\BIM Leaders Windows.csproj.GenerateResource.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\BIM Leaders Windows.csproj.CoreCompileInputs.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\BIM Leaders Windows.csproj.CopyComplete
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\BIM Leaders Windows.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\BIM Leaders Windows.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\RenumberParkingSpacesForm.g.cs
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Windows\obj\2024\Views\RenumberParkingSpacesForm.baml

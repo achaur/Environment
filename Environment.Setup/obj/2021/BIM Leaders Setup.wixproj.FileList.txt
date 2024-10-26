@@ -1,0 +1,11 @@
+C:\Users\a.chaur\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Setup\bin\2021\BIM Leaders Setup 2021.msi
+C:\Users\a.chaur\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Setup\bin\2021\BIM Leaders Setup 2021.wixpdb
+obj\2021\Components.wixobj
+obj\2021\ComponentsGenerated.wixobj
+obj\2021\Directories.wixobj
+obj\2021\Product.wixobj
+obj\2021\BIM Leaders Setup.wixproj.BindContentsFileListnull.txt
+obj\2021\BIM Leaders Setup.wixproj.BindOutputsFileListnull.txt
+obj\2021\BIM Leaders Setup.wixproj.BindBuiltOutputsFileListnull.txt
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Setup\bin\2021\BIM Leaders Setup 2021.msi
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Setup\bin\2021\BIM Leaders Setup 2021.wixpdb

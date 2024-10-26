@@ -1,0 +1,10 @@
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.UI\obj\Debug\Environment.UI.csproj.AssemblyReference.cache
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.UI\obj\Debug\Environment.UI.Properties.Resources.resources
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.UI\obj\Debug\Environment.UI.csproj.GenerateResource.cache
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.UI\obj\Debug\Environment.UI.csproj.CoreCompileInputs.cache
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.UI\obj\Debug\Environm.FFA73521.Up2Date
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.UI\obj\Debug\Environment.UI.dll
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.UI\obj\Debug\Environment.UI.pdb
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Output\Environment.UI.dll.config
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Output\Environment.UI.dll
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Output\Environment.UI.pdb

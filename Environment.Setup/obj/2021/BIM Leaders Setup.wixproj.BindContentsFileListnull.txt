@@ -1,0 +1,138 @@
+..\Output\2021\ArrayElemsDBAPI.dll
+..\Output\2021\Autodesk.UI.Themes.dll
+..\Output\2021\ElementGroupDBAPI.dll
+..\Output\2021\it-IT\AdWindows.resources.dll
+..\Output\2021\AnalysisAppsDBAPI.dll
+..\Output\2021\System.Numerics.Vectors.dll
+..\Output\2021\RebarDBAPI.dll
+..\Output\2021\Google.Apis.Core.xml
+..\Output\2021\pl-PL\AdWindows.resources.dll
+..\Output\2021\Autodesk.UI.Windows.dll
+..\Output\2021\UIFrameworkServices.dll
+..\Output\2021\MaterialDesignThemes.Wpf.dll
+..\Output\2021\System.Memory.xml
+..\Output\2021\BIM Leaders Windows.pdb
+..\Output\2021\BIM Leaders Windows.dll
+..\Output\2021\BuildingSystemsDBAPI.dll
+..\Output\2021\Google.Apis.Sheets.v4.xml
+..\Output\2021\System.Text.Json.dll
+..\Output\2021\RevitAddInUtility.dll
+..\Output\2021\Google.Apis.Sheets.v4.dll
+..\Output\2021\Google.Apis.dll
+..\Output\2021\BIM Leaders.pdb
+..\Output\2021\Google.Apis.PlatformServices.dll
+..\Output\2021\RevitDBAPI.dll
+..\Output\2021\SiteDBAPI.dll
+..\Output\2021\RevitAPIFoundation.dll
+..\Output\2021\Microsoft.Bcl.AsyncInterfaces.dll
+..\Output\2021\Google.Apis.Auth.pdb
+..\Output\2021\StructuralAnalysisDBAPI.dll
+..\Output\2021\BIM Leaders Utils.dll.config
+..\Output\2021\ru-RU\AdWindows.resources.dll
+..\Output\2021\NetTopologySuite.xml
+..\Output\2021\System.Numerics.Vectors.xml
+..\Output\2021\EPPlus.System.Drawing.dll
+..\Output\2021\Newtonsoft.Json.xml
+..\Output\2021\EnergyAnalysisDBAPI.dll
+..\Output\2021\UIFramework.dll
+..\Output\2021\fr-FR\AdWindows.resources.dll
+..\Output\2021\StairRampDBAPI.dll
+..\Output\2021\en-US\AdWindows.resources.dll
+..\Output\2021\Google.Apis.Core.pdb
+..\Output\2021\SculptingDBAPI.dll
+..\Output\2021\RevitAPIUI.dll
+..\Output\2021\RevitAddInUtility.xml
+..\Output\2021\BIM Leaders Logic.dll.config
+..\Output\2021\MaterialDesignColors.pdb
+..\Output\2021\PointCloudAccessAPI.dll
+..\Output\2021\RevitDBCoreAPI.dll
+..\Output\2021\ko-KR\AdWindows.resources.dll
+..\Output\2021\StructuralDBAPI.dll
+..\Output\2021\pt-BR\AdWindows.resources.dll
+..\Output\2021\AdskRcManaged.dll
+..\Output\2021\HostObjDBAPI.dll
+..\Output\2021\DetailDBAPI.dll
+..\Output\2021\ja-JP\AdWindows.resources.dll
+..\Output\2021\RevitAPIUI.xml
+..\Output\2021\EPPlus.Interfaces.dll
+..\Output\2021\GraphicsAPI.dll
+..\Output\2021\BIM Leaders Logic.dll
+..\Output\2021\Xceed.Wpf.AvalonDock.dll
+..\Output\2021\zh-TW\AdWindows.resources.dll
+..\Output\2021\BIM Leaders Windows.dll.config
+..\Output\2021\Microsoft.IO.RecyclableMemoryStream.dll
+..\Output\2021\Google.Apis.Sheets.v4.pdb
+..\Output\2021\BIM Leaders Core.dll.config
+..\Output\2021\DPartDBAPI.dll
+..\Output\2021\2021.zip
+..\Output\2021\Google.Apis.xml
+..\Output\2021\BuildingSystemsUIAPI.dll
+..\Output\2021\RevitUIAPI.dll
+..\Output\2021\System.Buffers.xml
+..\Output\2021\IntfATFAPI.dll
+..\Output\2021\AddInManager.dll
+..\Output\2021\EnergyAnalysisUtilitiesAPI.dll
+..\Output\2021\TextEngineAPI.dll
+..\Output\2021\Newtonsoft.Json.dll
+..\Output\2021\Google.Apis.Auth.PlatformServices.dll
+..\Output\2021\zh-CN\AdWindows.resources.dll
+..\Output\2021\EssentialsUIAPI.dll
+..\Output\2021\Google.Apis.Auth.xml
+..\Output\2021\BIM Leaders Utils.dll
+..\Output\2021\InterfaceAPI.dll
+..\Output\2021\AdWindows.dll
+..\Output\2021\NumberingDBAPI.dll
+..\Output\2021\APIDBAPI.dll
+..\Output\2021\BIM Leaders Core.dll
+..\Output\2021\System.Text.Encodings.Web.dll
+..\Output\2021\CurtainGridFamilyDBAPI.dll
+..\Output\2021\de-DE\AdWindows.resources.dll
+..\Output\2021\BIM Leaders UI.dll
+..\Output\2021\Google.Apis.pdb
+..\Output\2021\NetTopologySuite.dll
+..\Output\2021\System.Runtime.CompilerServices.Unsafe.dll
+..\Output\2021\System.Buffers.dll
+..\Output\2021\EPPlus.dll
+..\Output\2021\RevitAPI.dll
+..\Output\2021\MaterialDesignThemes.Wpf.pdb
+..\Output\2021\es-ES\AdWindows.resources.dll
+..\Output\2021\RevitMFCAPI.dll
+..\Output\2021\Google.Apis.Auth.dll
+..\Output\2021\UtilityAPI.dll
+..\Output\2021\InterfaceUtilAPI.dll
+..\Output\2021\Microsoft.IO.RecyclableMemoryStream.xml
+..\Output\2021\System.Runtime.CompilerServices.Unsafe.xml
+..\Output\2021\EPPlus.xml
+..\Output\2021\APIUIAPI.dll
+..\Output\2021\BIM Leaders UI.pdb
+..\Output\2021\RevitAPI.xml
+..\Output\2021\FamilyDBAPI.dll
+..\Output\2021\DetailUIAPI.dll
+..\Output\2021\MassingDBAPI.dll
+..\Output\2021\DBManagedServices.dll
+..\Output\2021\MaterialDesignColors.dll
+..\Output\2021\MaterialDBAPI.dll
+..\Output\2021\BIM Leaders.dll
+..\Output\2021\PersistenceDBAPI.dll
+..\Output\2021\cs-CZ\AdWindows.resources.dll
+..\Output\2021\APIInterop.dll
+..\Output\2021\BIM Leaders Core.pdb
+..\Output\2021\en-GB\AdWindows.resources.dll
+..\Output\2021\BIM Leaders UI.dll.config
+..\Output\2021\AssemblyDBAPI.dll
+..\Output\2021\System.ValueTuple.dll
+..\Output\2021\MaterialDesignThemes.Wpf.xml
+..\Output\2021\GeomUtilAPI.dll
+..\Output\2021\BIM Leaders.addin
+..\Output\2021\BIM Leaders.addin
+..\Output\2021\BIM Leaders Resources.pdb
+..\Output\2021\BIM Leaders Resources.dll
+..\Output\2021\RoomAreaPlanDBAPI.dll
+..\Output\2021\BIM Leaders Logic.pdb
+..\Output\2021\Google.Apis.Core.dll
+..\Output\2021\EssentialsDBAPI.dll
+..\Output\2021\BIM Leaders Utils.pdb
+..\Output\2021\DesktopMFCAPI.dll
+..\Output\2021\System.Threading.Tasks.Extensions.dll
+..\Output\2021\System.Memory.dll
+..\Output\2021\AdpSDKCSharpWrapper.dll

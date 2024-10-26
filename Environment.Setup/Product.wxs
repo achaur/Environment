@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+
+	<!-- Сhange ProductCode for creating major upgrade! -->
+	<?define ProductCode = "{82C4D3DF-DD1F-46F9-8646-B1DBC0E875DE}"?>
+
+	<!-- Do not change! Must be the same in all versions -->
+	<?define UpgradeCode = "{B3E85E27-6302-4751-9F32-4A69B56F6070}"?>
+
+	<!-- Some info -->
+	<?define Company = "Environment"?>
+	<?define Description = "Revit Addin"?>
+	<?define Keywords = "revit, addin, plugin"?>
+	<?define Comments = "Developed in 2023 to make work easy"?>
+	
+	<Product Id="$(var.ProductCode)"
+			 Name="Environment Addin"
+			 Language="1033"
+			 Version="$(var.BuildVersion)"
+			 Manufacturer="Environment"
+			 UpgradeCode="$(var.UpgradeCode)">
+		
+		<Package InstallerVersion="200"
+				 Compressed="yes"
+				 InstallScope="perMachine"
+				 Manufacturer="Environment"
+				 Description="https://bim-ae.com/"
+				 Keywords="$(var.Keywords)"
+				 Comments="$(var.Comments)"
+				 />
+
+		<MajorUpgrade 
+			Schedule="afterInstallInitialize"
+			DowngradeErrorMessage="A newer version of Add-in is already installed." />
+		
+		<!-- Included files inside of the installer -->
+		<MediaTemplate
+			EmbedCab="yes"
+			/>
+
+		<!-- Registry entries, shortcuts, logs, etc. -->
+		<Feature Id="ProductFeature" Title="Environment Setup" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+			<ComponentGroupRef Id="ProductComponents_2021"/>
+			<ComponentGroupRef Id="ProductComponents_2022"/>
+			<ComponentGroupRef Id="ProductComponents_2023"/>
+			<ComponentGroupRef Id="ProductComponents_2024"/>
+			<ComponentGroupRef Id="ProductComponents_2025"/>
+			<ComponentGroupRef Id="Addin_2020"/>
+			<ComponentGroupRef Id="Addin_2021"/>
+			<ComponentGroupRef Id="Addin_2022"/>
+			<ComponentGroupRef Id="Addin_2023"/>
+			<ComponentGroupRef Id="Addin_2024"/>
+			<ComponentGroupRef Id="Addin_2025"/>
+		</Feature>
+		
+	</Product>
+	
+</Wix>

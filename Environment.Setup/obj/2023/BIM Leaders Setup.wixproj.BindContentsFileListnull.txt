@@ -1,0 +1,122 @@
+..\Output\2023\ArrayElemsDBAPI.dll
+..\Output\2023\ElementGroupDBAPI.dll
+..\Output\2023\it-IT\AdWindows.resources.dll
+..\Output\2023\AnalysisAppsDBAPI.dll
+..\Output\2023\System.Numerics.Vectors.dll
+..\Output\2023\RebarDBAPI.dll
+..\Output\2023\Google.Apis.Core.xml
+..\Output\2023\pl-PL\AdWindows.resources.dll
+..\Output\2023\MaterialDesignThemes.Wpf.dll
+..\Output\2023\System.Memory.xml
+..\Output\2023\BIM Leaders Windows.pdb
+..\Output\2023\BIM Leaders Windows.dll
+..\Output\2023\BuildingSystemsDBAPI.dll
+..\Output\2023\Google.Apis.Sheets.v4.xml
+..\Output\2023\System.Text.Json.dll
+..\Output\2023\Google.Apis.Sheets.v4.dll
+..\Output\2023\Google.Apis.dll
+..\Output\2023\BIM Leaders.pdb
+..\Output\2023\Google.Apis.PlatformServices.dll
+..\Output\2023\RevitDBAPI.dll
+..\Output\2023\SiteDBAPI.dll
+..\Output\2023\RevitAPIFoundation.dll
+..\Output\2023\Microsoft.Bcl.AsyncInterfaces.dll
+..\Output\2023\Google.Apis.Auth.pdb
+..\Output\2023\StructuralAnalysisDBAPI.dll
+..\Output\2023\BIM Leaders Utils.dll.config
+..\Output\2023\ru-RU\AdWindows.resources.dll
+..\Output\2023\NetTopologySuite.xml
+..\Output\2023\System.Numerics.Vectors.xml
+..\Output\2023\EPPlus.System.Drawing.dll
+..\Output\2023\Newtonsoft.Json.xml
+..\Output\2023\EnergyAnalysisDBAPI.dll
+..\Output\2023\UIFramework.dll
+..\Output\2023\fr-FR\AdWindows.resources.dll
+..\Output\2023\StairRampDBAPI.dll
+..\Output\2023\en-US\AdWindows.resources.dll
+..\Output\2023\Google.Apis.Core.pdb
+..\Output\2023\InfrastructureDBAPI.dll
+..\Output\2023\ATFRevitCoreAPI.dll
+..\Output\2023\SculptingDBAPI.dll
+..\Output\2023\RevitAPIUI.dll
+..\Output\2023\BIM Leaders Logic.dll.config
+..\Output\2023\MaterialDesignColors.pdb
+..\Output\2023\PointCloudAccessAPI.dll
+..\Output\2023\RevitDBCoreAPI.dll
+..\Output\2023\ko-KR\AdWindows.resources.dll
+..\Output\2023\StructuralDBAPI.dll
+..\Output\2023\pt-BR\AdWindows.resources.dll
+..\Output\2023\AdskRcManaged.dll
+..\Output\2023\HostObjDBAPI.dll
+..\Output\2023\DetailDBAPI.dll
+..\Output\2023\ja-JP\AdWindows.resources.dll
+..\Output\2023\RevitAPIUI.xml
+..\Output\2023\EPPlus.Interfaces.dll
+..\Output\2023\GraphicsAPI.dll
+..\Output\2023\BIM Leaders Logic.dll
+..\Output\2023\zh-TW\AdWindows.resources.dll
+..\Output\2023\BIM Leaders Windows.dll.config
+..\Output\2023\Microsoft.IO.RecyclableMemoryStream.dll
+..\Output\2023\Google.Apis.Sheets.v4.pdb
+..\Output\2023\BIM Leaders Core.dll.config
+..\Output\2023\DPartDBAPI.dll
+..\Output\2023\Google.Apis.xml
+..\Output\2023\System.Buffers.xml
+..\Output\2023\IntfATFAPI.dll
+..\Output\2023\TextEngineAPI.dll
+..\Output\2023\Newtonsoft.Json.dll
+..\Output\2023\Google.Apis.Auth.PlatformServices.dll
+..\Output\2023\zh-CN\AdWindows.resources.dll
+..\Output\2023\Google.Apis.Auth.xml
+..\Output\2023\BIM Leaders Utils.dll
+..\Output\2023\InterfaceAPI.dll
+..\Output\2023\AdWindows.dll
+..\Output\2023\NumberingDBAPI.dll
+..\Output\2023\APIDBAPI.dll
+..\Output\2023\BIM Leaders Core.dll
+..\Output\2023\System.Text.Encodings.Web.dll
+..\Output\2023\CurtainGridFamilyDBAPI.dll
+..\Output\2023\de-DE\AdWindows.resources.dll
+..\Output\2023\BIM Leaders UI.dll
+..\Output\2023\Google.Apis.pdb
+..\Output\2023\NetTopologySuite.dll
+..\Output\2023\System.Runtime.CompilerServices.Unsafe.dll
+..\Output\2023\System.Buffers.dll
+..\Output\2023\EPPlus.dll
+..\Output\2023\RevitAPI.dll
+..\Output\2023\MaterialDesignThemes.Wpf.pdb
+..\Output\2023\es-ES\AdWindows.resources.dll
+..\Output\2023\Google.Apis.Auth.dll
+..\Output\2023\UtilityAPI.dll
+..\Output\2023\InterfaceUtilAPI.dll
+..\Output\2023\Microsoft.IO.RecyclableMemoryStream.xml
+..\Output\2023\System.Runtime.CompilerServices.Unsafe.xml
+..\Output\2023\EPPlus.xml
+..\Output\2023\BIM Leaders UI.pdb
+..\Output\2023\RevitAPI.xml
+..\Output\2023\FamilyDBAPI.dll
+..\Output\2023\MassingDBAPI.dll
+..\Output\2023\DBManagedServices.dll
+..\Output\2023\MaterialDesignColors.dll
+..\Output\2023\MaterialDBAPI.dll
+..\Output\2023\BIM Leaders.dll
+..\Output\2023\PersistenceDBAPI.dll
+..\Output\2023\cs-CZ\AdWindows.resources.dll
+..\Output\2023\BIM Leaders Core.pdb
+..\Output\2023\en-GB\AdWindows.resources.dll
+..\Output\2023\BIM Leaders UI.dll.config
+..\Output\2023\AssemblyDBAPI.dll
+..\Output\2023\System.ValueTuple.dll
+..\Output\2023\MaterialDesignThemes.Wpf.xml
+..\Output\2023\GeomUtilAPI.dll
+..\Output\2023\BIM Leaders.addin
+..\Output\2023\BIM Leaders.addin
+..\Output\2023\BIM Leaders Resources.pdb
+..\Output\2023\BIM Leaders Resources.dll
+..\Output\2023\RoomAreaPlanDBAPI.dll
+..\Output\2023\BIM Leaders Logic.pdb
+..\Output\2023\Google.Apis.Core.dll
+..\Output\2023\EssentialsDBAPI.dll
+..\Output\2023\BIM Leaders Utils.pdb
+..\Output\2023\System.Threading.Tasks.Extensions.dll
+..\Output\2023\System.Memory.dll

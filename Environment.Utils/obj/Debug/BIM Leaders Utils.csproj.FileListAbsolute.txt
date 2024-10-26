@@ -1,0 +1,15 @@
+C:\Users\a.chaur\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\Output\2022\BIM Leaders Utils.dll
+C:\Users\a.chaur\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\Output\2022\BIM Leaders Utils.pdb
+C:\Users\a.chaur\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\Debug\BIM Leaders Utils.csproj.AssemblyReference.cache
+C:\Users\a.chaur\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\Debug\BIM Leaders Utils.csproj.CoreCompileInputs.cache
+C:\Users\a.chaur\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\Debug\BIM Leaders Utils.csproj.CopyComplete
+C:\Users\a.chaur\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\Debug\BIM Leaders Utils.dll
+C:\Users\a.chaur\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\Debug\BIM Leaders Utils.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\Output\2022\BIM Leaders Utils.dll.config
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\Output\2022\BIM Leaders Utils.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\Output\2022\BIM Leaders Utils.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\Debug\BIM Leaders Utils.csproj.AssemblyReference.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\Debug\BIM Leaders Utils.csproj.CoreCompileInputs.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\Debug\BIM Leaders Utils.csproj.CopyComplete
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\Debug\BIM Leaders Utils.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\Debug\BIM Leaders Utils.pdb

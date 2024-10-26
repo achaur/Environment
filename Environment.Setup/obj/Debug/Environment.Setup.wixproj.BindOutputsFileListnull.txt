@@ -1,0 +1,2 @@
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Setup\bin\Environment.Setup.msi
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Setup\bin\Environment.Setup.wixpdb

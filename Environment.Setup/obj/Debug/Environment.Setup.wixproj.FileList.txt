@@ -1,0 +1,10 @@
+obj\\Debug\Components.wixobj
+obj\\Debug\Directories.wixobj
+obj\\Debug\Product.wixobj
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Setup.Setup\bin\Environment.Setup.msi
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Setup.Setup\bin\Environment.Setup.wixpdb
+obj\\Debug\Environment.Setup.wixproj.BindContentsFileListnull.txt
+obj\\Debug\Environment.Setup.wixproj.BindOutputsFileListnull.txt
+obj\\Debug\Environment.Setup.wixproj.BindBuiltOutputsFileListnull.txt
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Setup\bin\Environment.Setup.msi
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Setup\bin\Environment.Setup.wixpdb

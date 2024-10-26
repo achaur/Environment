@@ -1,0 +1,1407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|BIM Leaders\\BIM Leaders.csproj|c:\\users\\nastya\\desktop\\coding\\bim leaders\\bim-leaders-plugin\\bim leaders\\setupinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|BIM Leaders\\BIM Leaders.csproj|solutionrelative:bim leaders\\setupinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE61C151-BF4C-41A7-B29C-45D042E6EA0F}|BIM Leaders UI\\BIM Leaders UI.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders ui\\revit\\pushbuttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE61C151-BF4C-41A7-B29C-45D042E6EA0F}|BIM Leaders UI\\BIM Leaders UI.csproj|solutionrelative:bim leaders ui\\revit\\pushbuttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE61C151-BF4C-41A7-B29C-45D042E6EA0F}|BIM Leaders UI\\BIM Leaders UI.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders ui\\revit\\revitpulldownbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE61C151-BF4C-41A7-B29C-45D042E6EA0F}|BIM Leaders UI\\BIM Leaders UI.csproj|solutionrelative:bim leaders ui\\revit\\revitpulldownbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE61C151-BF4C-41A7-B29C-45D042E6EA0F}|BIM Leaders UI\\BIM Leaders UI.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders ui\\revit\\revitpulldownbuttondatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE61C151-BF4C-41A7-B29C-45D042E6EA0F}|BIM Leaders UI\\BIM Leaders UI.csproj|solutionrelative:bim leaders ui\\revit\\revitpulldownbuttondatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE61C151-BF4C-41A7-B29C-45D042E6EA0F}|BIM Leaders UI\\BIM Leaders UI.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders ui\\revit\\revitpushbuttondatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE61C151-BF4C-41A7-B29C-45D042E6EA0F}|BIM Leaders UI\\BIM Leaders UI.csproj|solutionrelative:bim leaders ui\\revit\\revitpushbuttondatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders core\\commands\\panelfamily\\familyparameterfindunused.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|solutionrelative:bim leaders core\\commands\\panelfamily\\familyparameterfindunused.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BIM Leaders Windows||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BIM Leaders Logic||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BIM Leaders Core||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BIM Leaders Utils||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BIM Leaders||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BIM Leaders Installer Backend||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BIM Leaders Resources||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\utils\\stairsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\utils\\stairsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\utils\\geometryutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\utils\\geometryutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\utils\\boundingboxutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\utils\\boundingboxutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\selectionmodels\\selectstairmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\selectionmodels\\selectstairmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|BIM Leaders Setup\\BIM Leaders Setup.wixproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Setup\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|BIM Leaders Setup\\BIM Leaders Setup.wixproj|solutionrelative:BIM Leaders Setup\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|BIM Leaders\\BIM Leaders.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders\\bim leaders.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|BIM Leaders\\BIM Leaders.csproj|solutionrelative:bim leaders\\bim leaders.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\insertsheetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\insertsheetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\importsheetsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\importsheetsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\renumberparkingspacesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\renumberparkingspacesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\views\\renumberparkingspacesform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\views\\renumberparkingspacesform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\lookuppaintmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\lookuppaintmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\utils\\solidsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\utils\\solidsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|BIM Leaders\\BIM Leaders.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|BIM Leaders\\BIM Leaders.csproj|solutionrelative:bim leaders\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\views\\slicewallsform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\views\\slicewallsform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\viewmodels\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\viewmodels\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\styles\\textbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\styles\\textbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders core\\commands\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|solutionrelative:bim leaders core\\commands\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders core\\commands\\panelelement\\elementpaintremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|solutionrelative:bim leaders core\\commands\\panelelement\\elementpaintremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\viewmodels\\slicecolumnsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\viewmodels\\slicecolumnsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\nameschangemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\nameschangemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders core\\commands\\panelelement\\slicecolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|solutionrelative:bim leaders core\\commands\\panelelement\\slicecolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\viewmodels\\nameschangeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\viewmodels\\nameschangeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\views\\resultform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\views\\resultform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|BIM Leaders\\BIM Leaders.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders\\externaldbappgrouprestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|BIM Leaders\\BIM Leaders.csproj|solutionrelative:bim leaders\\externaldbappgrouprestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders core\\commands\\panelannotate\\lookuppaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|solutionrelative:bim leaders core\\commands\\panelannotate\\lookuppaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\elementpaintremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\elementpaintremovemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders core\\commands\\panelelement\\slicewalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|solutionrelative:bim leaders core\\commands\\panelelement\\slicewalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders core\\commands\\panelannotate\\renumberparkingspaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|solutionrelative:bim leaders core\\commands\\panelannotate\\renumberparkingspaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders core\\commands\\panelannotate\\importsheets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|solutionrelative:bim leaders core\\commands\\panelannotate\\importsheets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders core\\commands\\panelannotate\\copyscopebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|solutionrelative:bim leaders core\\commands\\panelannotate\\copyscopebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\copyscopeboxmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\copyscopeboxmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders core\\commandsavailability\\viewissheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|solutionrelative:bim leaders core\\commandsavailability\\viewissheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders core\\commands\\panelannotate\\centerareatags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|solutionrelative:bim leaders core\\commands\\panelannotate\\centerareatags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\centerroomtagsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\centerroomtagsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\viewmodels\\renumberparkingspacesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\viewmodels\\renumberparkingspacesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\views\\renumberparkingspacesform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\views\\renumberparkingspacesform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\views\\dimensionplanlineform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\views\\dimensionplanlineform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\selectionmodels\\selectcurvemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\selectionmodels\\selectcurvemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders core\\commands\\panelannotate\\railingcenterline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|solutionrelative:bim leaders core\\commands\\panelannotate\\railingcenterline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\views\\purgeform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\views\\purgeform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\views\\reportform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\views\\reportform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\utils\\nettopologyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\utils\\nettopologyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\aligntagsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\aligntagsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\dimensionplanlinemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\dimensionplanlinemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\dimensionsectionfloorsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\dimensionsectionfloorsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\utils\\datumplaneutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\utils\\datumplaneutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\levelsalignmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\levelsalignmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\converters\\nametocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\converters\\nametocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders windows\\styles\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|BIM Leaders Windows\\BIM Leaders Windows.csproj|solutionrelative:bim leaders windows\\styles\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC3BFC2-A9D2-4055-90C8-7B9D84BE9103}|BIM Leaders Installer Backend\\BIM Leaders Installer Backend.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders installer backend\\customaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC3BFC2-A9D2-4055-90C8-7B9D84BE9103}|BIM Leaders Installer Backend\\BIM Leaders Installer Backend.csproj|solutionrelative:bim leaders installer backend\\customaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders utils\\licenseutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|solutionrelative:bim leaders utils\\licenseutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders utils\\googleapiutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|solutionrelative:bim leaders utils\\googleapiutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders core\\coreassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|BIM Leaders Core\\BIM Leaders Core.csproj|solutionrelative:bim leaders core\\coreassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders utils\\fileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|solutionrelative:bim leaders utils\\fileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders utils\\excelutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|solutionrelative:bim leaders utils\\excelutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders utils\\regexutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|solutionrelative:bim leaders utils\\regexutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\slicewallsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\slicewallsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\headheightmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\headheightmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\elementpropertiesmatchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\elementpropertiesmatchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\dimensionstairslandingsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\dimensionstairslandingsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\checksheltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\checksheltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\wallsarrangedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\wallsarrangedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\stairformulamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\stairformulamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\familyparametersetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\familyparametersetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders logic\\models\\checkermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|BIM Leaders Logic\\BIM Leaders Logic.csproj|solutionrelative:bim leaders logic\\models\\checkermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders utils\\assemblyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|solutionrelative:bim leaders utils\\assemblyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders utils\\httputils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|solutionrelative:bim leaders utils\\httputils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders utils\\jsonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|solutionrelative:bim leaders utils\\jsonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\bim leaders utils\\timeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C80F171-9F30-4DE4-A74F-F4E1FF5B9BE5}|BIM Leaders Utils\\BIM Leaders Utils.csproj|solutionrelative:bim leaders utils\\timeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RevitPushButtonDataModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders UI\\Revit\\RevitPushButtonDataModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders UI\\Revit\\RevitPushButtonDataModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders UI\\Revit\\RevitPushButtonDataModel.cs",
+              "RelativeToolTip": "BIM Leaders UI\\Revit\\RevitPushButtonDataModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:13:10.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RevitPulldownButtonDataModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders UI\\Revit\\RevitPulldownButtonDataModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders UI\\Revit\\RevitPulldownButtonDataModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders UI\\Revit\\RevitPulldownButtonDataModel.cs",
+              "RelativeToolTip": "BIM Leaders UI\\Revit\\RevitPulldownButtonDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:13:09.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SetupInterface.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders\\SetupInterface.cs",
+              "RelativeDocumentMoniker": "BIM Leaders\\SetupInterface.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders\\SetupInterface.cs",
+              "RelativeToolTip": "BIM Leaders\\SetupInterface.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAYwJkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RevitPulldownButton.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders UI\\Revit\\RevitPulldownButton.cs",
+              "RelativeDocumentMoniker": "BIM Leaders UI\\Revit\\RevitPulldownButton.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders UI\\Revit\\RevitPulldownButton.cs",
+              "RelativeToolTip": "BIM Leaders UI\\Revit\\RevitPulldownButton.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PushButtonManager.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders UI\\Revit\\PushButtonManager.cs",
+              "RelativeDocumentMoniker": "BIM Leaders UI\\Revit\\PushButtonManager.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders UI\\Revit\\PushButtonManager.cs",
+              "RelativeToolTip": "BIM Leaders UI\\Revit\\PushButtonManager.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAQwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FamilyParameterFindUnused.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelFamily\\FamilyParameterFindUnused.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\Commands\\PanelFamily\\FamilyParameterFindUnused.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelFamily\\FamilyParameterFindUnused.cs",
+              "RelativeToolTip": "BIM Leaders Core\\Commands\\PanelFamily\\FamilyParameterFindUnused.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:21:04.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BIM Leaders Core",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\BIM Leaders Core.csproj",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\BIM Leaders Core.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\BIM Leaders Core.csproj",
+              "RelativeToolTip": "BIM Leaders Core\\BIM Leaders Core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T13:54:13.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BIM Leaders",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders\\BIM Leaders.csproj",
+              "RelativeDocumentMoniker": "BIM Leaders\\BIM Leaders.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders\\BIM Leaders.csproj",
+              "RelativeToolTip": "BIM Leaders\\BIM Leaders.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-28T14:57:18.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BIM Leaders Utils",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\BIM Leaders Utils.csproj",
+              "RelativeDocumentMoniker": "BIM Leaders Utils\\BIM Leaders Utils.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\BIM Leaders Utils.csproj",
+              "RelativeToolTip": "BIM Leaders Utils\\BIM Leaders Utils.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T10:44:27.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BIM Leaders Logic",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\BIM Leaders Logic.csproj",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\BIM Leaders Logic.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\BIM Leaders Logic.csproj",
+              "RelativeToolTip": "BIM Leaders Logic\\BIM Leaders Logic.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-28T14:58:24.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BIM Leaders Installer Backend",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Installer Backend\\BIM Leaders Installer Backend.csproj",
+              "RelativeDocumentMoniker": "BIM Leaders Installer Backend\\BIM Leaders Installer Backend.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Installer Backend\\BIM Leaders Installer Backend.csproj",
+              "RelativeToolTip": "BIM Leaders Installer Backend\\BIM Leaders Installer Backend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T10:43:53.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BIM Leaders Windows",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\BIM Leaders Windows.csproj",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\BIM Leaders Windows.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\BIM Leaders Windows.csproj",
+              "RelativeToolTip": "BIM Leaders Windows\\BIM Leaders Windows.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-28T14:59:21.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BIM Leaders Resources",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Resources\\BIM Leaders Resources.csproj",
+              "RelativeDocumentMoniker": "BIM Leaders Resources\\BIM Leaders Resources.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Resources\\BIM Leaders Resources.csproj",
+              "RelativeToolTip": "BIM Leaders Resources\\BIM Leaders Resources.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T15:55:06.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StairsUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Utils\\StairsUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Utils\\StairsUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Utils\\StairsUtils.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Utils\\StairsUtils.cs",
+              "ViewState": "AQIAAIABAAAAAAAAAADgv44BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GeometryUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Utils\\GeometryUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Utils\\GeometryUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Utils\\GeometryUtils.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Utils\\GeometryUtils.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAswG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BoundingBoxUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Utils\\BoundingBoxUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Utils\\BoundingBoxUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Utils\\BoundingBoxUtils.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Utils\\BoundingBoxUtils.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:23:43.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SelectStairModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\SelectionModels\\SelectStairModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\SelectionModels\\SelectStairModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\SelectionModels\\SelectStairModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\SelectionModels\\SelectStairModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswDsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:37:14.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.wxs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Setup\\Product.wxs",
+              "RelativeDocumentMoniker": "BIM Leaders Setup\\Product.wxs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Setup\\Product.wxs",
+              "RelativeToolTip": "BIM Leaders Setup\\Product.wxs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-05T12:15:39.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BIM Leaders.addin",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders\\BIM Leaders.addin",
+              "RelativeDocumentMoniker": "BIM Leaders\\BIM Leaders.addin",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders\\BIM Leaders.addin",
+              "RelativeToolTip": "BIM Leaders\\BIM Leaders.addin",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2024-04-05T12:15:38.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InsertSheetModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\InsertSheetModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\InsertSheetModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\InsertSheetModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\InsertSheetModel.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAIwNUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:38.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ImportSheetsModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\ImportSheetsModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\ImportSheetsModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\ImportSheetsModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\ImportSheetsModel.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA2wCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RenumberParkingSpacesModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\RenumberParkingSpacesModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\RenumberParkingSpacesModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\RenumberParkingSpacesModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\RenumberParkingSpacesModel.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAcwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RenumberParkingSpacesForm.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\RenumberParkingSpacesForm.xaml",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\Views\\RenumberParkingSpacesForm.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\RenumberParkingSpacesForm.xaml",
+              "RelativeToolTip": "BIM Leaders Windows\\Views\\RenumberParkingSpacesForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T12:15:39.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LookupPaintModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\LookupPaintModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\LookupPaintModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\LookupPaintModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\LookupPaintModel.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAlwDsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SolidsUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Utils\\SolidsUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Utils\\SolidsUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Utils\\SolidsUtils.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Utils\\SolidsUtils.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAcwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders\\Main.cs",
+              "RelativeDocumentMoniker": "BIM Leaders\\Main.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders\\Main.cs",
+              "RelativeToolTip": "BIM Leaders\\Main.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SliceWallsForm.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\SliceWallsForm.xaml",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\Views\\SliceWallsForm.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\SliceWallsForm.xaml",
+              "RelativeToolTip": "BIM Leaders Windows\\Views\\SliceWallsForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T12:15:39.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TextBox.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Styles\\TextBox.xaml",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\Styles\\TextBox.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Styles\\TextBox.xaml",
+              "RelativeToolTip": "BIM Leaders Windows\\Styles\\TextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T12:15:39.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\BaseCommand.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\Commands\\BaseCommand.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\BaseCommand.cs",
+              "RelativeToolTip": "BIM Leaders Core\\Commands\\BaseCommand.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAnwFQAAAAiAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SliceColumnsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\ViewModels\\SliceColumnsViewModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\ViewModels\\SliceColumnsViewModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\ViewModels\\SliceColumnsViewModel.cs",
+              "RelativeToolTip": "BIM Leaders Windows\\ViewModels\\SliceColumnsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ResultForm.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\ResultForm.xaml",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\Views\\ResultForm.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\ResultForm.xaml",
+              "RelativeToolTip": "BIM Leaders Windows\\Views\\ResultForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T12:15:39.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ResultViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\ViewModels\\ResultViewModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\ViewModels\\ResultViewModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\ViewModels\\ResultViewModel.cs",
+              "RelativeToolTip": "BIM Leaders Windows\\ViewModels\\ResultViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ElementPaintRemove.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelElement\\ElementPaintRemove.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\Commands\\PanelElement\\ElementPaintRemove.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelElement\\ElementPaintRemove.cs",
+              "RelativeToolTip": "BIM Leaders Core\\Commands\\PanelElement\\ElementPaintRemove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SliceColumns.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelElement\\SliceColumns.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\Commands\\PanelElement\\SliceColumns.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelElement\\SliceColumns.cs",
+              "RelativeToolTip": "BIM Leaders Core\\Commands\\PanelElement\\SliceColumns.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SliceWalls.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelElement\\SliceWalls.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\Commands\\PanelElement\\SliceWalls.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelElement\\SliceWalls.cs",
+              "RelativeToolTip": "BIM Leaders Core\\Commands\\PanelElement\\SliceWalls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ExternalDBAppGroupRestore.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders\\ExternalDBAppGroupRestore.cs",
+              "RelativeDocumentMoniker": "BIM Leaders\\ExternalDBAppGroupRestore.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders\\ExternalDBAppGroupRestore.cs",
+              "RelativeToolTip": "BIM Leaders\\ExternalDBAppGroupRestore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NamesChangeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\ViewModels\\NamesChangeViewModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\ViewModels\\NamesChangeViewModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\ViewModels\\NamesChangeViewModel.cs",
+              "RelativeToolTip": "BIM Leaders Windows\\ViewModels\\NamesChangeViewModel.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAwwJoAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NamesChangeModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\NamesChangeModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\NamesChangeModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\NamesChangeModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\NamesChangeModel.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAkwEgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LookupPaint.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelAnnotate\\LookupPaint.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\Commands\\PanelAnnotate\\LookupPaint.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelAnnotate\\LookupPaint.cs",
+              "RelativeToolTip": "BIM Leaders Core\\Commands\\PanelAnnotate\\LookupPaint.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwAwAAAAcAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ElementPaintRemoveModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\ElementPaintRemoveModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\ElementPaintRemoveModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\ElementPaintRemoveModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\ElementPaintRemoveModel.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ViewIsSheet.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\CommandsAvailability\\ViewIsSheet.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\CommandsAvailability\\ViewIsSheet.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\CommandsAvailability\\ViewIsSheet.cs",
+              "RelativeToolTip": "BIM Leaders Core\\CommandsAvailability\\ViewIsSheet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ImportSheets.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelAnnotate\\ImportSheets.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\Commands\\PanelAnnotate\\ImportSheets.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelAnnotate\\ImportSheets.cs",
+              "RelativeToolTip": "BIM Leaders Core\\Commands\\PanelAnnotate\\ImportSheets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RenumberParkingSpaces.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelAnnotate\\RenumberParkingSpaces.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\Commands\\PanelAnnotate\\RenumberParkingSpaces.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelAnnotate\\RenumberParkingSpaces.cs",
+              "RelativeToolTip": "BIM Leaders Core\\Commands\\PanelAnnotate\\RenumberParkingSpaces.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CopyScopeBox.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelAnnotate\\CopyScopeBox.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\Commands\\PanelAnnotate\\CopyScopeBox.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelAnnotate\\CopyScopeBox.cs",
+              "RelativeToolTip": "BIM Leaders Core\\Commands\\PanelAnnotate\\CopyScopeBox.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CopyScopeBoxModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\CopyScopeBoxModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\CopyScopeBoxModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\CopyScopeBoxModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\CopyScopeBoxModel.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAApwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CenterRoomTagsModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\CenterRoomTagsModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\CenterRoomTagsModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\CenterRoomTagsModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\CenterRoomTagsModel.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAwLEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CenterAreaTags.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelAnnotate\\CenterAreaTags.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\Commands\\PanelAnnotate\\CenterAreaTags.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelAnnotate\\CenterAreaTags.cs",
+              "RelativeToolTip": "BIM Leaders Core\\Commands\\PanelAnnotate\\CenterAreaTags.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RenumberParkingSpacesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\ViewModels\\RenumberParkingSpacesViewModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\ViewModels\\RenumberParkingSpacesViewModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\ViewModels\\RenumberParkingSpacesViewModel.cs",
+              "RelativeToolTip": "BIM Leaders Windows\\ViewModels\\RenumberParkingSpacesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RailingCenterline.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelAnnotate\\RailingCenterline.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\Commands\\PanelAnnotate\\RailingCenterline.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\Commands\\PanelAnnotate\\RailingCenterline.cs",
+              "RelativeToolTip": "BIM Leaders Core\\Commands\\PanelAnnotate\\RailingCenterline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RenumberParkingSpacesForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\RenumberParkingSpacesForm.xaml.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\Views\\RenumberParkingSpacesForm.xaml.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\RenumberParkingSpacesForm.xaml.cs",
+              "RelativeToolTip": "BIM Leaders Windows\\Views\\RenumberParkingSpacesForm.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DimensionPlanLineForm.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\DimensionPlanLineForm.xaml",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\Views\\DimensionPlanLineForm.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\DimensionPlanLineForm.xaml",
+              "RelativeToolTip": "BIM Leaders Windows\\Views\\DimensionPlanLineForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T12:15:39.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SelectCurveModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\SelectionModels\\SelectCurveModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\SelectionModels\\SelectCurveModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\SelectionModels\\SelectCurveModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\SelectionModels\\SelectCurveModel.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PurgeForm.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\PurgeForm.xaml",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\Views\\PurgeForm.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\PurgeForm.xaml",
+              "RelativeToolTip": "BIM Leaders Windows\\Views\\PurgeForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T12:15:39.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ReportForm.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\ReportForm.xaml",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\Views\\ReportForm.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Views\\ReportForm.xaml",
+              "RelativeToolTip": "BIM Leaders Windows\\Views\\ReportForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T12:15:39.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AlignTagsModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\AlignTagsModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\AlignTagsModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\AlignTagsModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\AlignTagsModel.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "NetTopologyUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Utils\\NetTopologyUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Utils\\NetTopologyUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Utils\\NetTopologyUtils.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Utils\\NetTopologyUtils.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAApwBkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DimensionPlanLineModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\DimensionPlanLineModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\DimensionPlanLineModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\DimensionPlanLineModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\DimensionPlanLineModel.cs",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAuwHoBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DimensionSectionFloorsModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\DimensionSectionFloorsModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\DimensionSectionFloorsModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\DimensionSectionFloorsModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\DimensionSectionFloorsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DatumPlaneUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Utils\\DatumPlaneUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Utils\\DatumPlaneUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Utils\\DatumPlaneUtils.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Utils\\DatumPlaneUtils.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LevelsAlignModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\LevelsAlignModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\LevelsAlignModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\LevelsAlignModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\LevelsAlignModel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "NameToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Converters\\NameToColorConverter.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\Converters\\NameToColorConverter.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Converters\\NameToColorConverter.cs",
+              "RelativeToolTip": "BIM Leaders Windows\\Converters\\NameToColorConverter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Button.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Styles\\Button.xaml",
+              "RelativeDocumentMoniker": "BIM Leaders Windows\\Styles\\Button.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Windows\\Styles\\Button.xaml",
+              "RelativeToolTip": "BIM Leaders Windows\\Styles\\Button.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T12:15:39.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CustomAction.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Installer Backend\\CustomAction.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Installer Backend\\CustomAction.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Installer Backend\\CustomAction.cs",
+              "RelativeToolTip": "BIM Leaders Installer Backend\\CustomAction.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAIwHwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "GoogleApiUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\GoogleApiUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Utils\\GoogleApiUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\GoogleApiUtils.cs",
+              "RelativeToolTip": "BIM Leaders Utils\\GoogleApiUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ExcelUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\ExcelUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Utils\\ExcelUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\ExcelUtils.cs",
+              "RelativeToolTip": "BIM Leaders Utils\\ExcelUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LicenseUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\LicenseUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Utils\\LicenseUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\LicenseUtils.cs",
+              "RelativeToolTip": "BIM Leaders Utils\\LicenseUtils.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAYwHwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CoreAssembly.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\CoreAssembly.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Core\\CoreAssembly.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Core\\CoreAssembly.cs",
+              "RelativeToolTip": "BIM Leaders Core\\CoreAssembly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-05T12:15:39.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\BaseModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\BaseModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAB4JAAAAAAAAAAAAAC8JAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-05T12:15:39.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FileUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\FileUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Utils\\FileUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\FileUtils.cs",
+              "RelativeToolTip": "BIM Leaders Utils\\FileUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "SliceWallsModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\SliceWallsModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\SliceWallsModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\SliceWallsModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\SliceWallsModel.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAEBVwH8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RegexUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\RegexUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Utils\\RegexUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\RegexUtils.cs",
+              "RelativeToolTip": "BIM Leaders Utils\\RegexUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "HeadHeightModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\HeadHeightModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\HeadHeightModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\HeadHeightModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\HeadHeightModel.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "StairFormulaModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\StairFormulaModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\StairFormulaModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\StairFormulaModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\StairFormulaModel.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAIBJwIcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "FamilyParameterSetModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\FamilyParameterSetModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\FamilyParameterSetModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\FamilyParameterSetModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\FamilyParameterSetModel.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAEBVwH8AAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ElementPropertiesMatchModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\ElementPropertiesMatchModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\ElementPropertiesMatchModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\ElementPropertiesMatchModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\ElementPropertiesMatchModel.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAEBVwGIAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DimensionStairsLandingsModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\DimensionStairsLandingsModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\DimensionStairsLandingsModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\DimensionStairsLandingsModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\DimensionStairsLandingsModel.cs",
+              "ViewState": "AQIAAKMCAAAAAAAAAEBVwKcCAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CheckShelterModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\CheckShelterModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\CheckShelterModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\CheckShelterModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\CheckShelterModel.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAlwMwAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "WallsArrangedModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\WallsArrangedModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\WallsArrangedModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\WallsArrangedModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\WallsArrangedModel.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CheckerModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\CheckerModel.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Logic\\Models\\CheckerModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Logic\\Models\\CheckerModel.cs",
+              "RelativeToolTip": "BIM Leaders Logic\\Models\\CheckerModel.cs",
+              "ViewState": "AQIAACgDAAAAAAAAAEBVwCwDAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AssemblyUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\AssemblyUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Utils\\AssemblyUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\AssemblyUtils.cs",
+              "RelativeToolTip": "BIM Leaders Utils\\AssemblyUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "JsonUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\JsonUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Utils\\JsonUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\JsonUtils.cs",
+              "RelativeToolTip": "BIM Leaders Utils\\JsonUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "TimeUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\TimeUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Utils\\TimeUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\TimeUtils.cs",
+              "RelativeToolTip": "BIM Leaders Utils\\TimeUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "HttpUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\HttpUtils.cs",
+              "RelativeDocumentMoniker": "BIM Leaders Utils\\HttpUtils.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\BIM LEADERS\\BIM-Leaders-Plugin\\BIM Leaders Utils\\HttpUtils.cs",
+              "RelativeToolTip": "BIM Leaders Utils\\HttpUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:15:39.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAB4JAAAAAAAAAAAAAC8JAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-02-27T14:06:03.519Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 492,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f2e84780-2af1-11d1-a7fa-00a0c9110051}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

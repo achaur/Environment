@@ -1,0 +1,102 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Environment.Windows"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes">
+
+    <ResourceDictionary.MergedDictionaries>
+        <materialDesign:BundledTheme
+            BaseTheme="Light"
+            PrimaryColor="Grey"
+            SecondaryColor="Teal" />
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+        <ResourceDictionary Source="..\Colors.xaml" />
+        <ResourceDictionary Source="..\Fonts.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+
+    <Style
+        x:Key="SButtonSelect"
+        BasedOn="{StaticResource MaterialDesignRaisedDarkButton}"
+        TargetType="Button">
+        <Setter Property="Height" Value="36" />
+        <Setter Property="Background" Value="{StaticResource SColorSelectButtonBackground}" />
+        <Setter Property="Foreground" Value="{StaticResource SColorDataGridText}" />
+        <Setter Property="BorderBrush" Value="{StaticResource SColorSelectButtonBorder}" />
+        <Setter Property="FontFamily" Value="{StaticResource SFontFamilySemiBold}" />
+        <Style.Triggers>
+            <Trigger Property="IsEnabled" Value="True">
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="Button">
+                            <Border
+                                Background="{StaticResource SColorSelectButtonBackground}"
+                                BorderThickness="0,0,0,0"
+                                CornerRadius="18">
+                                <ContentPresenter
+                                    x:Name="contentPresenter"
+                                    Margin="{TemplateBinding Padding}"
+                                    HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                    VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                    Content="{TemplateBinding Content}"
+                                    ContentTemplate="{TemplateBinding ContentTemplate}" />
+                            </Border>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Trigger>
+            <Trigger Property="IsEnabled" Value="False">
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="Button">
+                            <Border
+                                Background="{StaticResource SColorSelectButtonBackgroundDisabled}"
+                                BorderThickness="0,0,0,0"
+                                CornerRadius="18">
+                                <ContentPresenter
+                                    x:Name="contentPresenter"
+                                    Margin="{TemplateBinding Padding}"
+                                    HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                    VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                    Content="{TemplateBinding Content}"
+                                    ContentTemplate="{TemplateBinding ContentTemplate}" />
+                            </Border>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Trigger>
+        </Style.Triggers>
+
+    </Style>
+
+    <Style
+        x:Key="SButtonClose"
+        BasedOn="{StaticResource MaterialDesignFloatingActionDarkButton}"
+        TargetType="Button">
+        <Setter Property="Background" Value="{x:Null}" />
+        <Setter Property="BorderBrush" Value="{x:Null}" />
+        <Setter Property="Margin" Value="18" />
+        <Setter Property="Width" Value="36" />
+        <Setter Property="Height" Value="36" />
+        <Setter Property="HorizontalAlignment" Value="Right" />
+        <Setter Property="VerticalAlignment" Value="Top" />
+
+        <Setter Property="ToolTip" Value="Cancel" />
+        <Setter Property="FontFamily" Value="{StaticResource SFontFamilyMain}" />
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <materialDesign:PackIcon
+                        Width="42"
+                        Height="42"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        Background="{StaticResource SColorBackgroundMain2}"
+                        Foreground="White"
+                        Kind="CloseBox" />
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+</ResourceDictionary>

@@ -1,0 +1,8 @@
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Output\2023\Environment.Resources.dll
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Output\2023\Environment.Resources.pdb
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Resources\obj\2023\Environment.Resources.csproj.AssemblyReference.cache
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Resources\obj\2023\Environment.Resources.g.resources
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Resources\obj\2023\Environment.Resources.csproj.CoreCompileInputs.cache
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Resources\obj\2023\Environm.B5345BE0.Up2Date
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Resources\obj\2023\Environment.Resources.dll
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Resources\obj\2023\Environment.Resources.pdb

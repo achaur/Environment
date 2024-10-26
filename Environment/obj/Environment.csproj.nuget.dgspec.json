@@ -1,0 +1,231 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj",
+        "projectName": "Environment.Core",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj"
+              },
+              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj",
+        "projectName": "Environment.Logic",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2020\\R2020.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2020\\R2020.csproj"
+              },
+              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\R2022.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\R2022.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj",
+        "projectName": "Environment.Resources",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj",
+        "projectName": "Environment.UI",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj"
+              },
+              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj",
+        "projectName": "Environment.Windows",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj"
+              },
+              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.csproj",
+        "projectName": "Environment",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.csproj",
+        "packagesPath": "C:\\Users\\nastya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nastya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj"
+              },
+              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj"
+              },
+              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj"
+              },
+              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "MaterialDesignColors": {
+              "target": "Package",
+              "version": "[2.0.9, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "WiX": {
+              "target": "Package",
+              "version": "[3.11.2, )"
+            },
+            "WiX.Toolset": {
+              "target": "Package",
+              "version": "[3.9.1208, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2020\\R2020.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2020\\R2020.csproj",
+        "projectName": "R2020",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2020\\R2020.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\R2022.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\R2022.csproj",
+        "projectName": "R2022",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\R2022.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

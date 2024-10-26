@@ -1,0 +1,15 @@
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Resources\bin\2024\BIM Leaders Resources.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Resources\bin\2024\BIM Leaders Resources.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Resources\bin\2024\MaterialDesignColors.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Resources\bin\2024\MaterialDesignThemes.Wpf.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Resources\bin\2024\MaterialDesignColors.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Resources\bin\2024\MaterialDesignThemes.Wpf.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Resources\bin\2024\MaterialDesignThemes.Wpf.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Resources\obj\2024\BIM Leaders Resources.csproj.AssemblyReference.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Resources\obj\2024\BIM Leaders Resources.g.resources
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Resources\obj\2024\BIM Leaders Resources.csproj.CoreCompileInputs.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Resources\obj\2024\BIM Leaders Resources.csproj.CopyComplete
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Resources\obj\2024\BIM Leaders Resources.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Resources\obj\2024\BIM Leaders Resources.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\Output\2024\BIM Leaders Resources.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\Output\2024\BIM Leaders Resources.pdb

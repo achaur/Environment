@@ -1,0 +1,8 @@
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders\obj\2024\BIM Leaders.csproj.AssemblyReference.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders\obj\2024\BIM Leaders.csproj.CoreCompileInputs.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\Output\2024\BIM Leaders.addin
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\Output\2024\BIM Leaders.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\Output\2024\BIM Leaders.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders\obj\2024\BIM Leaders.csproj.CopyComplete
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders\obj\2024\BIM Leaders.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders\obj\2024\BIM Leaders.pdb

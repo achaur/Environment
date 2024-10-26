@@ -1,0 +1,2 @@
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Setup\bin\2023\BIM Leaders Setup 2023.msi
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Setup\bin\2023\BIM Leaders Setup 2023.wixpdb

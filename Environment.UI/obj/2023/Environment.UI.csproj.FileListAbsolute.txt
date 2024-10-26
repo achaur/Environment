@@ -1,0 +1,4 @@
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.UI\obj\2023\Environment.UI.csproj.AssemblyReference.cache
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.UI\obj\2023\Environment.UI.Properties.Resources.resources
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.UI\obj\2023\Environment.UI.csproj.GenerateResource.cache
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.UI\obj\2023\Environment.UI.csproj.CoreCompileInputs.cache

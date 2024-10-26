@@ -1,0 +1,6 @@
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\R2022\obj\Debug\R2022.csproj.AssemblyReference.cache
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\R2022\obj\Debug\R2022.csproj.CoreCompileInputs.cache
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Output\R2022.dll
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Output\R2022.pdb
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\R2022\obj\Debug\R2022.dll
+C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\R2022\obj\Debug\R2022.pdb

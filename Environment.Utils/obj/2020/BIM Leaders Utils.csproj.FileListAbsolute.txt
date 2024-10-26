@@ -1,0 +1,42 @@
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\BIM Leaders Utils.dll.config
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\BIM Leaders Utils.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\EPPlus.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\EPPlus.Interfaces.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\EPPlus.System.Drawing.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.Auth.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.Auth.PlatformServices.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.Core.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.PlatformServices.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.Sheets.v4.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Microsoft.IO.RecyclableMemoryStream.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Newtonsoft.Json.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\System.Buffers.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\System.ComponentModel.Annotations.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\System.Memory.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\System.Numerics.Vectors.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\System.Runtime.CompilerServices.Unsafe.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\System.Text.Json.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\System.Text.Encodings.Web.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\System.ValueTuple.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\System.Threading.Tasks.Extensions.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Microsoft.Bcl.AsyncInterfaces.dll
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\EPPlus.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.Auth.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.Auth.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.Core.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.Core.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.Sheets.v4.pdb
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Google.Apis.Sheets.v4.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Microsoft.IO.RecyclableMemoryStream.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\Newtonsoft.Json.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\System.Buffers.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\System.Memory.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\System.Numerics.Vectors.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\bin\2020\System.Runtime.CompilerServices.Unsafe.xml
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\2020\BIM Leaders Utils.csproj.AssemblyReference.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\2020\BIM Leaders Utils.csproj.CoreCompileInputs.cache
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\2020\BIM Leaders Utils.csproj.CopyComplete
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Utils\obj\2020\BIM Leaders Utils.dll

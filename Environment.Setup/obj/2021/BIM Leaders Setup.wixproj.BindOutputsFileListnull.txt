@@ -1,0 +1,2 @@
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Setup\bin\2021\BIM Leaders Setup 2021.msi
+E:\source\repos\BIM-Leaders-Plugin\BIM-Leaders-Plugin\BIM Leaders Setup\bin\2021\BIM Leaders Setup 2021.wixpdb

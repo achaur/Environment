@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Fragment>
+		<!--
+		-->
+		<ComponentGroup Id="Addin_2020" Directory ="INSTALLFOLDER">
+			<ComponentRef Id="File0" />
+		</ComponentGroup>
+
+		<ComponentGroup Id="Addin_2021" Directory ="INSTALLFOLDER_2021">
+			<ComponentRef Id="File0_2021" />
+		</ComponentGroup>
+
+		<ComponentGroup Id="Addin_2022" Directory ="INSTALLFOLDER_2022">
+			<ComponentRef Id="File0_2022" />
+		</ComponentGroup>
+
+		<ComponentGroup Id="Addin_2023" Directory ="INSTALLFOLDER_2023">
+			<ComponentRef Id="File0_2023" />
+		</ComponentGroup>
+
+		<ComponentGroup Id="Addin_2024" Directory ="INSTALLFOLDER_2024">
+			<ComponentRef Id="File0_2024" />
+		</ComponentGroup>
+
+		<ComponentGroup Id="Addin_2025" Directory ="INSTALLFOLDER_2025">
+			<ComponentRef Id="File0_2025" />
+		</ComponentGroup>
+
+		<ComponentGroup Id="ProductComponents" Directory="ENVIRONMNET_FOLDER_2020">
+			<ComponentRef Id="File1" />
+			<ComponentRef Id="File2" />
+			<ComponentRef Id="File3" />
+			<ComponentRef Id="File4" />
+			<ComponentRef Id="File5" />
+			<ComponentRef Id="File6" />
+			<ComponentRef Id="File7" />
+			<ComponentRef Id="File8" />
+			<ComponentRef Id="File9" />
+			<ComponentRef Id="File10" />
+		</ComponentGroup>
+
+		<ComponentGroup Id="ProductComponents_2021" Directory="ENVIRONMNET_FOLDER_2021">
+			<ComponentRef Id="File0_2021" />
+			<ComponentRef Id="File1_2021" />
+			<ComponentRef Id="File2_2021" />
+			<ComponentRef Id="File3_2021" />
+			<ComponentRef Id="File4_2021" />
+			<ComponentRef Id="File5_2021" />
+			<ComponentRef Id="File6_2021" />
+			<ComponentRef Id="File7_2021" />
+			<ComponentRef Id="File8_2021" />
+			<ComponentRef Id="File9_2021" />
+			<ComponentRef Id="File10_2021" />
+		</ComponentGroup>
+
+		<ComponentGroup Id="ProductComponents_2022" Directory="ENVIRONMNET_FOLDER_2022">
+			<ComponentRef Id="File0_2022" />
+			<ComponentRef Id="File1_2022" />
+			<ComponentRef Id="File2_2022" />
+			<ComponentRef Id="File3_2022" />
+			<ComponentRef Id="File4_2022" />
+			<ComponentRef Id="File5_2022" />
+			<ComponentRef Id="File6_2022" />
+			<ComponentRef Id="File7_2022" />
+			<ComponentRef Id="File8_2022" />
+			<ComponentRef Id="File9_2022" />
+			<ComponentRef Id="File10_2022" />
+		</ComponentGroup>
+
+		<ComponentGroup Id="ProductComponents_2023" Directory="ENVIRONMNET_FOLDER_2023">
+			<ComponentRef Id="File0_2023" />
+			<ComponentRef Id="File1_2023" />
+			<ComponentRef Id="File2_2023" />
+			<ComponentRef Id="File3_2023" />
+			<ComponentRef Id="File4_2023" />
+			<ComponentRef Id="File5_2023" />
+			<ComponentRef Id="File6_2023" />
+			<ComponentRef Id="File7_2023" />
+			<ComponentRef Id="File8_2023" />
+			<ComponentRef Id="File9_2023" />
+			<ComponentRef Id="File10_2023" />
+		</ComponentGroup>
+		
+		<ComponentGroup Id="ProductComponents_2024" Directory="ENVIRONMNET_FOLDER_2024">
+			<ComponentRef Id="File0_2024" />
+			<ComponentRef Id="File1_2024" />
+			<ComponentRef Id="File2_2024" />
+			<ComponentRef Id="File3_2024" />
+			<ComponentRef Id="File4_2024" />
+			<ComponentRef Id="File5_2024" />
+			<ComponentRef Id="File6_2024" />
+			<ComponentRef Id="File7_2024" />
+			<ComponentRef Id="File8_2024" />
+			<ComponentRef Id="File9_2024" />
+			<ComponentRef Id="File10_2024" />
+		</ComponentGroup>
+		
+		<ComponentGroup Id="ProductComponents_2025" Directory="ENVIRONMNET_FOLDER_2025">
+			<ComponentRef Id="File0_2025" />
+			<ComponentRef Id="File1_2025" />
+			<ComponentRef Id="File2_2025" />
+			<ComponentRef Id="File3_2025" />
+			<ComponentRef Id="File4_2025" />
+			<ComponentRef Id="File5_2025" />
+			<ComponentRef Id="File6_2025" />
+			<ComponentRef Id="File7_2025" />
+			<ComponentRef Id="File8_2025" />
+			<ComponentRef Id="File9_2025" />
+			<ComponentRef Id="File10_2025" />
+		</ComponentGroup>
+
+		<DirectoryRef Id="INSTALLFOLDER" FileSource="..\Output">
+			<Component Id="File0" Guid="{090D194B-9C28-49A1-9E4C-AF190BED2545}">
+				<File Id="FileAddinFile" Name="Environment.addin" KeyPath="yes"></File>
+			</Component>
+		</DirectoryRef>
+
+		<DirectoryRef Id="ENVIRONMNET_FOLDER_2020" FileSource="..\Output">
+			<Component Id="File1" Guid="{72928FF8-B91B-47CF-B708-4E3742AA5168}">
+				<File Id="FileCoreFile" Name="Environment.Core.dll"></File>
+			</Component>
+			<Component Id="File2" Guid="{57A3F0C2-D65B-485D-806C-A5CDAEF9CC98}">
+				<File Id="FileResourcesFile" Name="Environment.Resources.dll"></File>
+			</Component>
+			<Component Id="File3" Guid="{75CD2FDA-08EB-4469-8709-1C528EB37983}">
+				<File Id="FileUIFile" Name="Environment.UI.dll"></File>
+			</Component>
+			<Component Id="File4" Guid="{8B489D1F-E7FD-4D57-BFF9-65727094AF0C}">
+				<File Id="FileWindowsFile" Name="Environment.Windows.dll"></File>
+			</Component>
+			<Component Id="File5" Guid="{6683198B-B3E5-4269-9F96-CC24DABB5283}">
+				<File Id="FileMainFile" Name="Environment.dll"></File>
+			</Component>
+			<Component Id="File6" Guid="{86DFDF0E-2438-4805-AC58-DD590EB2B312}">
+				<File Id="FileMDColorsFile" Name="MaterialDesignColors.dll"></File>
+			</Component>
+			<Component Id="File7" Guid="{E94AB29E-C95D-4344-8F56-D181E34A81D0}">
+				<File Id="FileMDThemesFile" Name="MaterialDesignThemes.Wpf.dll"></File>
+			</Component>
+			<Component Id="File8" Guid="{5A2E7CAF-4B5B-4490-9400-6A01ACA67838}">
+				<File Id="FileLogicFile" Name="Environment.Logic.dll"></File>
+			</Component>
+			<Component Id="File9" Guid="{064135A0-B56A-4B01-9300-D20CEB503F98}">
+				<File Id="R2020" Name="R2020.dll"></File>
+			</Component>
+			<Component Id="File10" Guid="{7F196AF4-4C92-4DAC-9AB1-3D9259F01333}">
+				<File Id="R2022" Name="R2022.dll"></File>
+			</Component>
+		</DirectoryRef>
+
+		<DirectoryRef Id="INSTALLFOLDER_2021" FileSource="..\Output">
+			<Component Id="File0_2021" Guid="{81471C9A-64DA-4761-B61C-7DA01DC531F5}">
+				<File Id="FileAddinFile_2021" Name="Environment.addin" KeyPath="yes"></File>
+			</Component>
+		</DirectoryRef>
+
+		<DirectoryRef Id="ENVIRONMNET_FOLDER_2021" FileSource="..\Output">
+			<Component Id="File1_2021" Guid="{C9EAB66F-119A-46B6-A09E-265E0134AF0E}">
+				<File Id="FileCoreFile_2021" Name="Environment.Core.dll"></File>
+			</Component>
+			<Component Id="File2_2021" Guid="{20D2E053-BD9B-4675-B4E2-228D5E147F7C}">
+				<File Id="FileResourcesFile_2021" Name="Environment.Resources.dll"></File>
+			</Component>
+			<Component Id="File3_2021" Guid="{BAFFBA92-C77A-4623-A3F7-43819632E222}">
+				<File Id="FileUIFile_2021" Name="Environment.UI.dll"></File>
+			</Component>
+			<Component Id="File4_2021" Guid="{E49CACAB-C398-4E22-9363-A3764A0B924C}">
+				<File Id="FileWindowsFile_2021" Name="Environment.Windows.dll"></File>
+			</Component>
+			<Component Id="File5_2021" Guid="{D87BADD8-B82B-459B-82EA-EFAA28E20724}">
+				<File Id="FileMainFile_2021" Name="Environment.dll"></File>
+			</Component>
+			<Component Id="File6_2021" Guid="{292A1213-2AA4-4743-A5D6-67270E5483DC}">
+				<File Id="FileMDColorsFile_2021" Name="MaterialDesignColors.dll"></File>
+			</Component>
+			<Component Id="File7_2021" Guid="{F06C019B-1C80-41FD-9B4D-7849260D3CE1}">
+				<File Id="FileMDThemesFile_2021" Name="MaterialDesignThemes.Wpf.dll"></File>
+			</Component>
+			<Component Id="File8_2021" Guid="{30C4B92D-0387-4BC4-9B33-A71A97D05F1E}">
+				<File Id="FileLogicFile_2021" Name="Environment.Logic.dll"></File>
+			</Component>
+			<Component Id="File9_2021" Guid="{A919E2EE-7E4D-43F9-9FF3-4E7491791306}">
+				<File Id="R2020_2020" Name="R2020.dll"></File>
+			</Component>
+			<Component Id="File10_2021" Guid="{DC9FEB9E-76DD-4C82-AD88-E957E0588365}">
+				<File Id="R2022_2020" Name="R2022.dll"></File>
+			</Component>
+		</DirectoryRef>
+
+		<DirectoryRef Id="INSTALLFOLDER_2022" FileSource="..\Output">
+			<Component Id="File0_2022" Guid="{2AE8A7C3-A5F2-480A-A081-BD13EA287607}">
+				<File Id="FileAddinFile_2022" Name="Environment.addin" KeyPath="yes"></File>
+			</Component>
+		</DirectoryRef>
+
+		<DirectoryRef Id="ENVIRONMNET_FOLDER_2022" FileSource="..\Output">
+			<Component Id="File1_2022" Guid="{A2F8B5A9-4F95-44B5-9E31-F0A2E5E934C9}">
+				<File Id="FileCoreFile_2022" Name="Environment.Core.dll" />
+			</Component>
+			<Component Id="File2_2022" Guid="{B9E1D6FA-142A-49A6-B6DB-9F89C5FBC1E5}">
+				<File Id="FileResourcesFile_2022" Name="Environment.Resources.dll" />
+			</Component>
+			<Component Id="File3_2022" Guid="{C72E6A4F-6A8F-4D4B-8C9D-3D52C8F4D158}">
+				<File Id="FileUIFile_2022" Name="Environment.UI.dll" />
+			</Component>
+			<Component Id="File4_2022" Guid="{D6D2B579-80B5-4AFA-AD46-F44D1B2E7F43}">
+				<File Id="FileWindowsFile_2022" Name="Environment.Windows.dll" />
+			</Component>
+			<Component Id="File5_2022" Guid="{A07F8B43-29B0-41CE-86D2-C65F2B5C0F57}">
+				<File Id="FileMainFile_2022" Name="Environment.dll" />
+			</Component>
+			<Component Id="File6_2022" Guid="{F0A69A66-312B-42E8-91A1-10F8C73B3D3A}">
+				<File Id="FileMDColorsFile_2022" Name="MaterialDesignColors.dll" />
+			</Component>
+			<Component Id="File7_2022" Guid="{E05A4D1C-8A4E-4E58-8B6F-8D3C4733A0DB}">
+				<File Id="FileMDThemesFile_2022" Name="MaterialDesignThemes.Wpf.dll" />
+			</Component>
+			<Component Id="File8_2022" Guid="{B2C5D9E5-5E7D-4C9E-92A4-93AAE0289B3B}">
+				<File Id="FileLogicFile_2022" Name="Environment.Logic.dll" />
+			</Component>
+			<Component Id="File9_2022" Guid="{E3B0C1A2-B1F3-42F7-A94B-7621C8A6D511}">
+				<File Id="R2020_2022" Name="R2020.dll"></File>
+			</Component>
+			<Component Id="File10_2022" Guid="{B5A9D3C7-4A7C-45F9-B2F3-F8D91C2A721A}">
+				<File Id="R2022_2022" Name="R2022.dll"></File>
+			</Component>
+		</DirectoryRef>
+
+		<DirectoryRef Id="INSTALLFOLDER_2023" FileSource="..\Output">
+			<Component Id="File0_2023" Guid="{C9D99567-5080-49AA-AA09-68DBBF94D95F}">
+				<File Id="FileAddinFile_2023" Name="Environment.addin" KeyPath="yes"></File>
+			</Component>
+		</DirectoryRef>
+
+		<DirectoryRef Id="ENVIRONMNET_FOLDER_2023" FileSource="..\Output">
+			<Component Id="File1_2023" Guid="{F7B3E857-ED1C-4C83-9D6C-C59C1675F4D3}">
+				<File Id="FileCoreFile_2023" Name="Environment.Core.dll" />
+			</Component>
+			<Component Id="File2_2023" Guid="{E67F3F5E-DC1A-490F-ABDF-3C5A56F9C1A5}">
+				<File Id="FileResourcesFile_2023" Name="Environment.Resources.dll" />
+			</Component>
+			<Component Id="File3_2023" Guid="{D19C7F29-8B8E-461E-8258-7F9164A4E81B}">
+				<File Id="FileUIFile_2023" Name="Environment.UI.dll" />
+			</Component>
+			<Component Id="File4_2023" Guid="{A86F58F6-582B-4D56-BFCE-B05E6F329E44}">
+				<File Id="FileWindowsFile_2023" Name="Environment.Windows.dll" />
+			</Component>
+			<Component Id="File5_2023" Guid="{A3B66BAE-D024-48DB-87CA-C1918ED7C57E}">
+				<File Id="FileMainFile_2023" Name="Environment.dll" />
+			</Component>
+			<Component Id="File6_2023" Guid="{A25E01C1-9D65-407E-BF8C-BE0DF949AF16}">
+				<File Id="FileMDColorsFile_2023" Name="MaterialDesignColors.dll" />
+			</Component>
+			<Component Id="File7_2023" Guid="{D06F0F05-96A7-432B-BB04-7C9441E905C4}">
+				<File Id="FileMDThemesFile_2023" Name="MaterialDesignThemes.Wpf.dll" />
+			</Component>
+			<Component Id="File8_2023" Guid="{F7BF4F06-5D7B-46BF-8C77-CF9F95D88C48}">
+				<File Id="FileLogicFile_2023" Name="Environment.Logic.dll" />
+			</Component>
+			<Component Id="File9_2023" Guid="{C2A1E4B7-2D4F-4D8B-81E7-B5A7C8D4F2B3}">
+				<File Id="R2020_2023" Name="R2020.dll"></File>
+			</Component>
+			<Component Id="File10_2023" Guid="{A9D3E6B4-7B3A-42C9-A5F8-D3F9C4B7A8C1}">
+				<File Id="R2022_2023" Name="R2022.dll"></File>
+			</Component>
+		</DirectoryRef>
+
+		<DirectoryRef Id="INSTALLFOLDER_2024" FileSource="..\Output">
+			<Component Id="File0_2024" Guid="{5E4DEE11-A24C-4C87-9CF6-A87C7D07B16E}">
+				<File Id="FileAddinFile_2024" Name="Environment.addin" KeyPath="yes"></File>
+			</Component>
+		</DirectoryRef>
+
+		<DirectoryRef Id="ENVIRONMNET_FOLDER_2024" FileSource="..\Output">
+			<Component Id="File1_2024" Guid="{A2D4C1B3-4511-487F-932B-F6C20B967F3E}">
+				<File Id="FileCoreFile_2024" Name="Environment.Core.dll" />
+			</Component>
+			<Component Id="File2_2024" Guid="{A5F83E76-1F9F-4D24-A6B5-0F53F2A67F58}">
+				<File Id="FileResourcesFile_2024" Name="Environment.Resources.dll" />
+			</Component>
+			<Component Id="File3_2024" Guid="{5A9D158F-D67D-45ED-B4C5-4B1E3E8D1601}">
+				<File Id="FileUIFile_2024" Name="Environment.UI.dll" />
+			</Component>
+			<Component Id="File4_2024" Guid="{9D7A6E66-6D19-4C4E-B96A-64B5E4BC83C9}">
+				<File Id="FileWindowsFile_2024" Name="Environment.Windows.dll" />
+			</Component>
+			<Component Id="File5_2024" Guid="{DE90A7F6-1D1A-48F3-BCA0-38A8BA4D0B7D}">
+				<File Id="FileMainFile_2024" Name="Environment.dll" />
+			</Component>
+			<Component Id="File6_2024" Guid="{68D325F6-8140-4E2B-BDBB-B82752DAA7F9}">
+				<File Id="FileMDColorsFile_2024" Name="MaterialDesignColors.dll" />
+			</Component>
+			<Component Id="File7_2024" Guid="{A2B70F9B-10D1-46B8-AC71-D2BC95C83BDA}">
+				<File Id="FileMDThemesFile_2024" Name="MaterialDesignThemes.Wpf.dll" />
+			</Component>
+			<Component Id="File8_2024" Guid="{CDA8A20C-736D-4A4E-AC61-9FF4D54F4E6A}">
+				<File Id="FileLogicFile_2024" Name="Environment.Logic.dll" />
+			</Component>
+			<Component Id="File9_2024" Guid="{E5B1D7C2-9F2A-43AB-B7C3-4D6E2F9A8C73}">
+				<File Id="R2020_2024" Name="R2020.dll"></File>
+			</Component>
+			<Component Id="File10_2024" Guid="{F7A2D5C9-6C8D-4F5A-A9E4-B4C1E7D3F5A2}">
+				<File Id="R2022_2024" Name="R2022.dll"></File>
+			</Component>
+		</DirectoryRef>
+		
+		<DirectoryRef Id="INSTALLFOLDER_2025" FileSource="..\Output">
+			<Component Id="File0_2025" Guid="{6937B6D0-C976-41F7-B46B-6D9BCDBA9D20}">
+				<File Id="FileAddinFile_2025" Name="Environment.addin" KeyPath="yes"></File>
+			</Component>
+		</DirectoryRef>
+
+		<DirectoryRef Id="ENVIRONMNET_FOLDER_2025" FileSource="..\Output">
+			<Component Id="File1_2025" Guid="{EAB9F839-0DA4-4A7D-AB82-CA1B062A2B8A}">
+				<File Id="FileCoreFile_2025" Name="Environment.Core.dll" />
+			</Component>
+			<Component Id="File2_2025" Guid="{2F03863B-16CE-4740-AFAF-F68F737F38B4}">
+				<File Id="FileResourcesFile_2025" Name="Environment.Resources.dll" />
+			</Component>
+			<Component Id="File3_2025" Guid="{8A7B12EA-83F1-49F8-A1CA-C61EB7D1B6B3}">
+				<File Id="FileUIFile_2025" Name="Environment.UI.dll" />
+			</Component>
+			<Component Id="File4_2025" Guid="{2C26354A-12BF-4F83-8109-F4B08E899B65}">
+				<File Id="FileWindowsFile_2025" Name="Environment.Windows.dll" />
+			</Component>
+			<Component Id="File5_2025" Guid="{7F2FBC77-CDB2-432C-8A2E-458DA77BB32D}">
+				<File Id="FileMainFile_2025" Name="Environment.dll" />
+			</Component>
+			<Component Id="File6_2025" Guid="{7D0C1A8A-C2A2-494C-B034-F3E4A79C17F5}">
+				<File Id="FileMDColorsFile_2025" Name="MaterialDesignColors.dll" />
+			</Component>
+			<Component Id="File7_2025" Guid="{C6EB9D8D-FB8D-4D62-847A-69473D83E220}">
+				<File Id="FileMDThemesFile_2025" Name="MaterialDesignThemes.Wpf.dll" />
+			</Component>
+			<Component Id="File8_2025" Guid="{9B85D6C2-28B5-4658-BC09-020F8FA1BF9D}">
+				<File Id="FileLogicFile_2025" Name="Environment.Logic.dll" />
+			</Component>
+			<Component Id="File9_2025" Guid="{D1C3B8A4-9C3E-4EB7-A6C2-5D8F7E4B9A64}">
+				<File Id="R2020_2025" Name="R2020.dll"></File>
+			</Component>
+			<Component Id="File10_2025" Guid="{C6B4A9D7-8E3B-4F6A-B7F1-C3D4E9A7F4B3}">
+				<File Id="R2022_2025" Name="R2022.dll"></File>
+			</Component>
+		</DirectoryRef>
+	</Fragment>
+</Wix>

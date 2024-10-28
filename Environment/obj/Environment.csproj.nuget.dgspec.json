@@ -1,22 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.csproj": {}
+    "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\Environment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj": {
+    "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Core\\Environment.Core.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj",
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Core\\Environment.Core.csproj",
         "projectName": "Environment.Core",
-        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Core\\Environment.Core.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj": {
-                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj"
+              "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\Environment.Logic.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\Environment.Logic.csproj"
               },
-              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj": {
-                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj"
+              "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Environment.Windows.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Environment.Windows.csproj"
               }
             }
           }
@@ -26,19 +26,19 @@
         "net48": {}
       }
     },
-    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj": {
+    "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\Environment.Logic.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\Environment.Logic.csproj",
         "projectName": "Environment.Logic",
-        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\Environment.Logic.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2020\\R2020.csproj": {
-                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2020\\R2020.csproj"
+              "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\R2020\\R2020.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\R2020\\R2020.csproj"
               },
-              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\R2022.csproj": {
-                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\R2022.csproj"
+              "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\R2022\\R2022.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\R2022\\R2022.csproj"
               }
             }
           }
@@ -48,11 +48,11 @@
         "net48": {}
       }
     },
-    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj": {
+    "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Resources\\Environment.Resources.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj",
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Resources\\Environment.Resources.csproj",
         "projectName": "Environment.Resources",
-        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Resources\\Environment.Resources.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
@@ -63,19 +63,19 @@
         "net48": {}
       }
     },
-    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj": {
+    "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.UI\\Environment.UI.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj",
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.UI\\Environment.UI.csproj",
         "projectName": "Environment.UI",
-        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.UI\\Environment.UI.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj": {
-                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj"
+              "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Core\\Environment.Core.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Core\\Environment.Core.csproj"
               },
-              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj": {
-                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj"
+              "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Resources\\Environment.Resources.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Resources\\Environment.Resources.csproj"
               }
             }
           }
@@ -85,19 +85,19 @@
         "net48": {}
       }
     },
-    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj": {
+    "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Environment.Windows.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj",
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Environment.Windows.csproj",
         "projectName": "Environment.Windows",
-        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Environment.Windows.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj": {
-                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Logic\\Environment.Logic.csproj"
+              "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\Environment.Logic.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\Environment.Logic.csproj"
               },
-              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj": {
-                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj"
+              "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Resources\\Environment.Resources.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Resources\\Environment.Resources.csproj"
               }
             }
           }
@@ -107,14 +107,14 @@
         "net48": {}
       }
     },
-    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.csproj": {
+    "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\Environment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.csproj",
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\Environment.csproj",
         "projectName": "Environment",
-        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.csproj",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\Environment.csproj",
         "packagesPath": "C:\\Users\\nastya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\obj\\",
+        "outputPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -135,17 +135,17 @@
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj": {
-                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Core\\Environment.Core.csproj"
+              "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Core\\Environment.Core.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Core\\Environment.Core.csproj"
               },
-              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj": {
-                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Resources\\Environment.Resources.csproj"
+              "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Resources\\Environment.Resources.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Resources\\Environment.Resources.csproj"
               },
-              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj": {
-                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.UI\\Environment.UI.csproj"
+              "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.UI\\Environment.UI.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.UI\\Environment.UI.csproj"
               },
-              "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj": {
-                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment.Windows\\Environment.Windows.csproj"
+              "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Environment.Windows.csproj": {
+                "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Environment.Windows.csproj"
               }
             }
           }
@@ -197,11 +197,11 @@
         }
       }
     },
-    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2020\\R2020.csproj": {
+    "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\R2020\\R2020.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2020\\R2020.csproj",
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\R2020\\R2020.csproj",
         "projectName": "R2020",
-        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2020\\R2020.csproj",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\R2020\\R2020.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -212,11 +212,11 @@
         "net472": {}
       }
     },
-    "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\R2022.csproj": {
+    "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\R2022\\R2022.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\R2022.csproj",
+        "projectUniqueName": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\R2022\\R2022.csproj",
         "projectName": "R2022",
-        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\R2022\\R2022.csproj",
+        "projectPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\R2022\\R2022.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}

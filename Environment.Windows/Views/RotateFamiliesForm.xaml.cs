@@ -4,11 +4,10 @@ using System.Windows.Controls;
 
 namespace Environment.Windows
 {
-    public partial class RotateFamiliesForm : BaseView
+    public partial class RotateFamiliesForm : Window
     {
-        public RotateFamiliesForm() : base()
+        public RotateFamiliesForm()
         {
-            InitializeMaterialDesign();
             InitializeComponent();
         }
     }

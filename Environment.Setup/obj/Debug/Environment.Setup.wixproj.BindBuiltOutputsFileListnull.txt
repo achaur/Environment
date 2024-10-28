@@ -1,2 +1,2 @@
-C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Setup\bin\Environment.Setup.msi
-C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Setup\bin\Environment.Setup.wixpdb
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Environment.Setup\bin\Debug\Environment.Setup.msi
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Environment.Setup\bin\Debug\Environment.Setup.wixpdb

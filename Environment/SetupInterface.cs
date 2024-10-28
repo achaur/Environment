@@ -33,12 +33,12 @@ namespace Environment
         public void Initialize(UIControlledApplication application)
         {
             // Create Ribbon Tab
-            string tabName = "Environment";
+            string tabName = "Environment + Nastya";
             application.CreateRibbonTab(tabName);
             // Create Ribbon Panels
-            CreatePanel01(application, tabName, "Standards");
+            CreatePanel01(application, tabName, "Families");
         }
-        #region CHECKER PANEL
+        #region FAMILIES TOOLSET PANEL
         private Autodesk.Revit.UI.RibbonPanel CreatePanel01(UIControlledApplication application, string tabName, string panelName)
         {
             Autodesk.Revit.UI.RibbonPanel panel = application.CreateRibbonPanel(tabName, panelName);
@@ -49,8 +49,7 @@ namespace Environment
                 Label = "Rotate Families",
                 Panel = panel,
                 CommandNamespacePath = RotateFamilies.GetPath(),
-                ToolTip = "Check file for standards, model and codes.",
-                LongDescription = "Check which categories need to be checked for prefix in naming. Also check model issues, and problems with national codes.",
+                ToolTip = "Rotate Bunch of Families at once.",
                 IconImageName = "rotate.png",
                 AvailabilityClassName = "Environment.Core.DocumentIsNotFamily"
             };

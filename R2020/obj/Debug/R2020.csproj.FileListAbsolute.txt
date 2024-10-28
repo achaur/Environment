@@ -43,3 +43,10 @@ C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\R2020\obj\Debug\R2
 C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\R2020\obj\Debug\R2020.pdb
 C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Output\R2020.dll
 C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Output\R2020.pdb
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Output\R2020.dll
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Output\R2020.pdb
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\R2020\obj\Debug\R2020.csproj.AssemblyReference.cache
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\R2020\obj\Debug\R2020.csproj.CoreCompileInputs.cache
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\R2020\obj\Debug\R2020.csproj.Up2Date
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\R2020\obj\Debug\R2020.dll
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\R2020\obj\Debug\R2020.pdb

@@ -80,8 +80,8 @@ namespace Environment.Windows
 
         public List<string> RotationPointOptions => new List<string>()
         {
-            "Base Point",
-            "Centre of Bounding Box"
+            "Insertion Point",
+            "Bounding Box Centre"
         };
 
         private string selectedRotationOption;
@@ -141,15 +141,16 @@ namespace Environment.Windows
 
         private protected override void RunAction(Window window)
         {
-            _eventHandler.SetData(RandomRotation, Angle, SelectedRotationOption);
-            _externalEvent.Raise();
-
-            CloseAction(window);
+            if (window != null)
+            {
+                Closed = true;
+                window.Close();
+            }
         }
 
         private void ApplyAction()
         {
-            _eventHandler.SetData(RandomRotation, Angle, SelectedRotationOption);
+            _eventHandler.SetData(RandomRotation, Angle, SelectedRotationOption, false);
             _externalEvent.Raise();
         }
 
@@ -160,6 +161,9 @@ namespace Environment.Windows
                 Closed = true;
                 window.Close();
             }
+
+            _eventHandler.SetData(RandomRotation, Angle, SelectedRotationOption, true);
+            _externalEvent.Raise();
         }
         #endregion
     }

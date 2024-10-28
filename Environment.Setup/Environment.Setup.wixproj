@@ -42,7 +42,7 @@
     <IntermediateOutputPath>obj\$(Platform)\$(Configuration)\</IntermediateOutputPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
-    <OutputPath>C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Setup\bin\</OutputPath>
+    <OutputPath>C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Environment.Setup\bin\Debug\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Components.wxs" />

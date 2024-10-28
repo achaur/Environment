@@ -3,6 +3,7 @@ using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
 using Environment.Logic;
 using Environment.Windows;
+using System.Windows;
 
 namespace Environment.Core
 {
@@ -11,7 +12,7 @@ namespace Environment.Core
     {
         private protected string _transactionName;
         private protected BaseViewModel _viewModel;
-        private protected BaseView _view;
+        private protected Window _view;
         private protected RunResult _result;
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {

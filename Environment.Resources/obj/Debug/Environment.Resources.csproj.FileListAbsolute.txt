@@ -6,3 +6,11 @@ C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Resour
 C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Resources\obj\Debug\Environment.Resources.pdb
 C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Output\Environment.Resources.dll
 C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Output\Environment.Resources.pdb
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Output\Environment.Resources.dll
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Output\Environment.Resources.pdb
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Environment.Resources\obj\Debug\Environment.Resources.csproj.AssemblyReference.cache
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Environment.Resources\obj\Debug\Environment.Resources.g.resources
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Environment.Resources\obj\Debug\Environment.Resources.csproj.CoreCompileInputs.cache
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Environment.Resources\obj\Debug\Environm.B5345BE0.Up2Date
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Environment.Resources\obj\Debug\Environment.Resources.dll
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Environment.Resources\obj\Debug\Environment.Resources.pdb

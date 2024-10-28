@@ -2,7 +2,7 @@
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
 
 	<!-- Сhange ProductCode for creating major upgrade! -->
-	<?define ProductCode = "{82C4D3DF-DD1F-46F9-8646-B1DBC0E875DE}"?>
+	<?define ProductCode = "{0E9D281A-8D31-4E70-8FE1-94D2C510E112}"?>
 
 	<!-- Do not change! Must be the same in all versions -->
 	<?define UpgradeCode = "{B3E85E27-6302-4751-9F32-4A69B56F6070}"?>

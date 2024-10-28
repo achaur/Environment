@@ -2,7 +2,7 @@
 <RevitAddIns>
 	<AddIn Type="Application">
 		<Name>Environment</Name>
-		<Assembly>Environment/Environment.dll</Assembly>
+		<Assembly>Environment+Nastya/Environment.dll</Assembly>
 		<AddInId>6ED5A9E2-C708-4C81-8F45-F1447AA72D3F</AddInId>
 		<FullClassName>Environment.Main</FullClassName>
 		<VendorId>EnvironmentVendorId</VendorId>

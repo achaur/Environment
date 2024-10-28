@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1TE4KNBALY/MsYEMJitp4nCCQPDq24Ud7CxTa6lpba+JmYr+XV3AHpUBLlGpNceU9/DVoA/KHNVZkg9vZw17eQ==",
+  "dgSpecHash": "zEOy+zT0TezGC16Ww9K4gfPexU46fUNQmn6vK0BrAesLifhEz2N8USPby54mT1CdD74amE2erTAELP5N69PhDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nastya\\Desktop\\Coding\\ENVIRONMENT\\BIM-Leaders-Plugin\\Environment\\Environment.csproj",
+  "projectFilePath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\Environment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nastya\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
     "C:\\Users\\nastya\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512",

@@ -9,22 +9,22 @@
 					<Directory Id="RevitFolder" Name="Revit">
 						<Directory Id="AddinsFolder" Name="Addins">
 							<Directory Id="INSTALLFOLDER" Name="2020">
-								<Directory Id="ENVIRONMNET_FOLDER_2020" Name="Environment"/>
+								<Directory Id="ENVIRONMNET_FOLDER_2020" Name="Environment+Nastya"/>
 							</Directory>
                             <Directory Id="INSTALLFOLDER_2021" Name="2021">
-								<Directory Id="ENVIRONMNET_FOLDER_2021" Name="Environment"/>
+								<Directory Id="ENVIRONMNET_FOLDER_2021" Name="Environment+Nastya"/>
 							</Directory>
                             <Directory Id="INSTALLFOLDER_2022" Name="2022">
-								<Directory Id="ENVIRONMNET_FOLDER_2022" Name="Environment"/>
+								<Directory Id="ENVIRONMNET_FOLDER_2022" Name="Environment+Nastya"/>
 							</Directory>
                             <Directory Id="INSTALLFOLDER_2023" Name="2023">
-								<Directory Id="ENVIRONMNET_FOLDER_2023" Name="Environment"/>
+								<Directory Id="ENVIRONMNET_FOLDER_2023" Name="Environment+Nastya"/>
 							</Directory>
                             <Directory Id="INSTALLFOLDER_2024" Name="2024">
-								<Directory Id="ENVIRONMNET_FOLDER_2024" Name="Environment"/>
+								<Directory Id="ENVIRONMNET_FOLDER_2024" Name="Environment+Nastya"/>
 							</Directory>
 							<Directory Id="INSTALLFOLDER_2025" Name="2025">
-								<Directory Id="ENVIRONMNET_FOLDER_2025" Name="Environment"/>
+								<Directory Id="ENVIRONMNET_FOLDER_2025" Name="Environment+Nastya"/>
 							</Directory>
 						</Directory>
 					</Directory>

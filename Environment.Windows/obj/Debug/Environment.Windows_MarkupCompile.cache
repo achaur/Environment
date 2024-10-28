@@ -4,17 +4,17 @@
 library
 C#
 .cs
-C:\Users\nastya\Desktop\Coding\ENVIRONMENT\BIM-Leaders-Plugin\Environment.Windows\obj\Debug\
+C:\Users\nastya\Desktop\Coding\environment_repo\Revit-API-tool-to-Rotate-Families\Environment.Windows\obj\Debug\
 Environment.Windows
 none
 false
 
 
-10-1506238310
+2-85196470
 
-13-1485757694
-201341956000
-Fonts.xaml;Colors.xaml;Resources.xaml;Styles\Button.xaml;Styles\Window.xaml;Styles\ComboBox.xaml;Styles\CheckBox.xaml;Styles\Label.xaml;Styles\TextBox.xaml;Views\RotateFamiliesForm.xaml;
+13-811797255
+201311301276
+Resources.xaml;Views\RotateFamiliesForm.xaml;
 
 False
 

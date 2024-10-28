@@ -1,9 +1,9 @@
-..\Output\Environment.addin
-..\Output\Environment.addin
-..\Output\Environment.addin
-..\Output\Environment.addin
-..\Output\Environment.addin
-..\Output\Environment.addin
+..\Output\Environment+Nastya.addin
+..\Output\Environment+Nastya.addin
+..\Output\Environment+Nastya.addin
+..\Output\Environment+Nastya.addin
+..\Output\Environment+Nastya.addin
+..\Output\Environment+Nastya.addin
 ..\Output\Environment.Core.dll
 ..\Output\Environment.Core.dll
 ..\Output\Environment.Core.dll

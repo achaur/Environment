@@ -57,7 +57,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Environment.addin">
+    <None Include="Environment+Nastya.addin">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>

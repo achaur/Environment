@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|solutionrelative:Environment.Setup\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Components.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|solutionrelative:Environment.Setup\\Components.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Environment.Core||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
@@ -18,38 +10,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Environment.Setup||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Directories.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|solutionrelative:Environment.Setup\\Directories.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment\\environment.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|solutionrelative:environment\\environment.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment.windows\\viewmodels\\rotatefamiliesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\viewmodels\\rotatefamiliesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment.windows\\views\\rotatefamiliesform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\views\\rotatefamiliesform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|c:\\users\\nastya\\desktop\\coding\\environment_repo\\revit-api-tool-to-rotate-families\\environment.windows\\resources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\resources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment\\setupinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|solutionrelative:environment\\setupinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment.windows\\views\\rotatefamiliesform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\views\\rotatefamiliesform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|c:\\users\\nastya\\desktop\\coding\\environment_repo\\revit-api-tool-to-rotate-families\\environment.windows\\converters\\invertbooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\converters\\invertbooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|R2022||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -64,6 +24,46 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Environment.UI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|solutionrelative:Environment.Setup\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Components.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|solutionrelative:Environment.Setup\\Components.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment\\environment\u002Bnastya.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|solutionrelative:environment\\environment\u002Bnastya.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Directories.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70C5EBF0-2FD2-4E46-85A7-4DCD762FE998}|Environment.Setup\\Environment.Setup.wixproj|solutionrelative:Environment.Setup\\Directories.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment.windows\\viewmodels\\rotatefamiliesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\viewmodels\\rotatefamiliesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment.windows\\views\\rotatefamiliesform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\views\\rotatefamiliesform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment.windows\\resources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\resources.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment\\setupinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B35F18-B470-4DDD-9974-BF064A31F441}|Environment\\Environment.csproj|solutionrelative:environment\\setupinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment.windows\\views\\rotatefamiliesform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\views\\rotatefamiliesform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment.windows\\converters\\invertbooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799942AC-6D9B-44E4-AB3F-1191B32F8CD4}|Environment.Windows\\Environment.Windows.csproj|solutionrelative:environment.windows\\converters\\invertbooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|Environment.Logic\\Environment.Logic.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment.logic\\modelesseventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|Environment.Logic\\Environment.Logic.csproj|solutionrelative:environment.logic\\modelesseventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -72,7 +72,7 @@
       "RelativeMoniker": "D:0:0:{654795BD-31CC-451A-B3FE-0FB14C765E48}|Environment.Logic\\Environment.Logic.csproj|solutionrelative:environment.logic\\models\\rotatefamiliesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|Environment.Core\\Environment.Core.csproj|c:\\users\\nastya\\desktop\\coding\\environment_repo\\revit-api-tool-to-rotate-families\\environment.core\\commands\\rotatefamilies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|Environment.Core\\Environment.Core.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\environment.core\\commands\\rotatefamilies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC132ACA-21DD-4E90-B767-F7FC7B339FCA}|Environment.Core\\Environment.Core.csproj|solutionrelative:environment.core\\commands\\rotatefamilies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -80,7 +80,7 @@
       "RelativeMoniker": "D:0:0:{EE61C151-BF4C-41A7-B29C-45D042E6EA0F}|Environment.UI\\Environment.UI.csproj|solutionrelative:environment.ui\\revit\\pushbuttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D868CF7-AED1-4043-AFA8-B12DABE06516}|R2022\\R2022.csproj|c:\\users\\nastya\\desktop\\coding\\environment_repo\\revit-api-tool-to-rotate-families\\r2022\\formatutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D868CF7-AED1-4043-AFA8-B12DABE06516}|R2022\\R2022.csproj|C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\r2022\\formatutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D868CF7-AED1-4043-AFA8-B12DABE06516}|R2022\\R2022.csproj|solutionrelative:r2022\\formatutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -182,7 +182,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -226,220 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Environment.Setup",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Environment.Setup.wixproj",
-              "RelativeDocumentMoniker": "Environment.Setup\\Environment.Setup.wixproj",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Environment.Setup.wixproj",
-              "RelativeToolTip": "Environment.Setup\\Environment.Setup.wixproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-28T19:01:08.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Environment.addin",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\Environment.addin",
-              "RelativeDocumentMoniker": "Environment\\Environment.addin",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\Environment.addin",
-              "RelativeToolTip": "Environment\\Environment.addin",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
-              "WhenOpened": "2024-10-25T20:42:21.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Components.wxs",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Components.wxs",
-              "RelativeDocumentMoniker": "Environment.Setup\\Components.wxs",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Components.wxs",
-              "RelativeToolTip": "Environment.Setup\\Components.wxs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-26T05:38:11.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Environment",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\Environment.csproj",
-              "RelativeDocumentMoniker": "Environment\\Environment.csproj",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\Environment.csproj",
-              "RelativeToolTip": "Environment\\Environment.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-26T05:31:43.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Environment.Core",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Core\\Environment.Core.csproj",
-              "RelativeDocumentMoniker": "Environment.Core\\Environment.Core.csproj",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Core\\Environment.Core.csproj",
-              "RelativeToolTip": "Environment.Core\\Environment.Core.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-26T05:41:10.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Product.wxs",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Product.wxs",
-              "RelativeDocumentMoniker": "Environment.Setup\\Product.wxs",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Product.wxs",
-              "RelativeToolTip": "Environment.Setup\\Product.wxs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-26T05:38:07.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RotateFamiliesViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\ViewModels\\RotateFamiliesViewModel.cs",
-              "RelativeDocumentMoniker": "Environment.Windows\\ViewModels\\RotateFamiliesViewModel.cs",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\ViewModels\\RotateFamiliesViewModel.cs",
-              "RelativeToolTip": "Environment.Windows\\ViewModels\\RotateFamiliesViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T21:05:14.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RotateFamiliesForm.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Views\\RotateFamiliesForm.xaml.cs",
-              "RelativeDocumentMoniker": "Environment.Windows\\Views\\RotateFamiliesForm.xaml.cs",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Views\\RotateFamiliesForm.xaml.cs",
-              "RelativeToolTip": "Environment.Windows\\Views\\RotateFamiliesForm.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T14:34:04.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RotateFamiliesForm.xaml",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Views\\RotateFamiliesForm.xaml",
-              "RelativeDocumentMoniker": "Environment.Windows\\Views\\RotateFamiliesForm.xaml",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Views\\RotateFamiliesForm.xaml",
-              "RelativeToolTip": "Environment.Windows\\Views\\RotateFamiliesForm.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-26T14:36:20.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Directories.wxs",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Directories.wxs",
-              "RelativeDocumentMoniker": "Environment.Setup\\Directories.wxs",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Directories.wxs",
-              "RelativeToolTip": "Environment.Setup\\Directories.wxs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-26T05:46:31.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SetupInterface.cs",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\SetupInterface.cs",
-              "RelativeDocumentMoniker": "Environment\\SetupInterface.cs",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\SetupInterface.cs",
-              "RelativeToolTip": "Environment\\SetupInterface.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAADwvzMAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T20:44:42.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Resources.xaml",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Resources.xaml",
-              "RelativeDocumentMoniker": "Environment.Windows\\Resources.xaml",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Resources.xaml",
-              "RelativeToolTip": "Environment.Windows\\Resources.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-28T18:15:39.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Environment.UI",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.UI\\Environment.UI.csproj",
-              "RelativeDocumentMoniker": "Environment.UI\\Environment.UI.csproj",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.UI\\Environment.UI.csproj",
-              "RelativeToolTip": "Environment.UI\\Environment.UI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-26T05:40:42.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "InvertBooleanConverter.cs",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Converters\\InvertBooleanConverter.cs",
-              "RelativeDocumentMoniker": "Environment.Windows\\Converters\\InvertBooleanConverter.cs",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Converters\\InvertBooleanConverter.cs",
-              "RelativeToolTip": "Environment.Windows\\Converters\\InvertBooleanConverter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T18:16:17.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Environment.Resources",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Resources\\Environment.Resources.csproj",
-              "RelativeDocumentMoniker": "Environment.Resources\\Environment.Resources.csproj",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Resources\\Environment.Resources.csproj",
-              "RelativeToolTip": "Environment.Resources\\Environment.Resources.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-26T05:40:36.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ModelessEventHandler.cs",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\ModelessEventHandler.cs",
-              "RelativeDocumentMoniker": "Environment.Logic\\ModelessEventHandler.cs",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\ModelessEventHandler.cs",
-              "RelativeToolTip": "Environment.Logic\\ModelessEventHandler.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAiwCEAAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T14:51:00.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Environment.Logic",
-              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\Environment.Logic.csproj",
-              "RelativeDocumentMoniker": "Environment.Logic\\Environment.Logic.csproj",
-              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\Environment.Logic.csproj",
-              "RelativeToolTip": "Environment.Logic\\Environment.Logic.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-26T05:40:26.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "R2022",
               "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\R2022\\R2022.csproj",
               "RelativeDocumentMoniker": "R2022\\R2022.csproj",
@@ -451,6 +238,209 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Environment.Logic",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\Environment.Logic.csproj",
+              "RelativeDocumentMoniker": "Environment.Logic\\Environment.Logic.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\Environment.Logic.csproj",
+              "RelativeToolTip": "Environment.Logic\\Environment.Logic.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:40:26.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Environment.Resources",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Resources\\Environment.Resources.csproj",
+              "RelativeDocumentMoniker": "Environment.Resources\\Environment.Resources.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Resources\\Environment.Resources.csproj",
+              "RelativeToolTip": "Environment.Resources\\Environment.Resources.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:40:36.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Environment.UI",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.UI\\Environment.UI.csproj",
+              "RelativeDocumentMoniker": "Environment.UI\\Environment.UI.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.UI\\Environment.UI.csproj",
+              "RelativeToolTip": "Environment.UI\\Environment.UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:40:42.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Environment.Setup",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Environment.Setup.wixproj",
+              "RelativeDocumentMoniker": "Environment.Setup\\Environment.Setup.wixproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Environment.Setup.wixproj",
+              "RelativeToolTip": "Environment.Setup\\Environment.Setup.wixproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-28T19:01:08.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Environment",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\Environment.csproj",
+              "RelativeDocumentMoniker": "Environment\\Environment.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\Environment.csproj",
+              "RelativeToolTip": "Environment\\Environment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:31:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Environment.Core",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Core\\Environment.Core.csproj",
+              "RelativeDocumentMoniker": "Environment.Core\\Environment.Core.csproj",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Core\\Environment.Core.csproj",
+              "RelativeToolTip": "Environment.Core\\Environment.Core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:41:10.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.wxs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Product.wxs",
+              "RelativeDocumentMoniker": "Environment.Setup\\Product.wxs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Product.wxs",
+              "RelativeToolTip": "Environment.Setup\\Product.wxs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:38:07.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Components.wxs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Components.wxs",
+              "RelativeDocumentMoniker": "Environment.Setup\\Components.wxs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Components.wxs",
+              "RelativeToolTip": "Environment.Setup\\Components.wxs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAlwJkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:38:11.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Environment\u002BNastya.addin",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\Environment\u002BNastya.addin",
+              "RelativeDocumentMoniker": "Environment\\Environment\u002BNastya.addin",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\Environment\u002BNastya.addin",
+              "RelativeToolTip": "Environment\\Environment\u002BNastya.addin",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2024-10-25T20:42:21.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RotateFamiliesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\ViewModels\\RotateFamiliesViewModel.cs",
+              "RelativeDocumentMoniker": "Environment.Windows\\ViewModels\\RotateFamiliesViewModel.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\ViewModels\\RotateFamiliesViewModel.cs",
+              "RelativeToolTip": "Environment.Windows\\ViewModels\\RotateFamiliesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:05:14.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RotateFamiliesForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Views\\RotateFamiliesForm.xaml.cs",
+              "RelativeDocumentMoniker": "Environment.Windows\\Views\\RotateFamiliesForm.xaml.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Views\\RotateFamiliesForm.xaml.cs",
+              "RelativeToolTip": "Environment.Windows\\Views\\RotateFamiliesForm.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:34:04.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RotateFamiliesForm.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Views\\RotateFamiliesForm.xaml",
+              "RelativeDocumentMoniker": "Environment.Windows\\Views\\RotateFamiliesForm.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Views\\RotateFamiliesForm.xaml",
+              "RelativeToolTip": "Environment.Windows\\Views\\RotateFamiliesForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T14:36:20.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Directories.wxs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Directories.wxs",
+              "RelativeDocumentMoniker": "Environment.Setup\\Directories.wxs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Setup\\Directories.wxs",
+              "RelativeToolTip": "Environment.Setup\\Directories.wxs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:46:31.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SetupInterface.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\SetupInterface.cs",
+              "RelativeDocumentMoniker": "Environment\\SetupInterface.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment\\SetupInterface.cs",
+              "RelativeToolTip": "Environment\\SetupInterface.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADwvzMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:44:42.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resources.xaml",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Resources.xaml",
+              "RelativeDocumentMoniker": "Environment.Windows\\Resources.xaml",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Resources.xaml",
+              "RelativeToolTip": "Environment.Windows\\Resources.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T18:15:39.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InvertBooleanConverter.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Converters\\InvertBooleanConverter.cs",
+              "RelativeDocumentMoniker": "Environment.Windows\\Converters\\InvertBooleanConverter.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Windows\\Converters\\InvertBooleanConverter.cs",
+              "RelativeToolTip": "Environment.Windows\\Converters\\InvertBooleanConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:16:17.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ModelessEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\ModelessEventHandler.cs",
+              "RelativeDocumentMoniker": "Environment.Logic\\ModelessEventHandler.cs",
+              "ToolTip": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\Environment.Logic\\ModelessEventHandler.cs",
+              "RelativeToolTip": "Environment.Logic\\ModelessEventHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCEAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:51:00.928Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 21,
               "Title": "FormatUtils.cs",
               "DocumentMoniker": "C:\\Users\\nastya\\Desktop\\Coding\\environment_repo\\Revit-API-tool-to-Rotate-Families\\R2022\\FormatUtils.cs",
@@ -459,8 +449,7 @@
               "RelativeToolTip": "R2022\\FormatUtils.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:59:48.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T15:59:48.072Z"
             },
             {
               "$type": "Document",
@@ -472,8 +461,7 @@
               "RelativeToolTip": "Environment.UI\\Revit\\PushButtonManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T20:48:46.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T20:48:46.48Z"
             },
             {
               "$type": "Document",
@@ -485,8 +473,7 @@
               "RelativeToolTip": "Environment.Logic\\Models\\RotateFamiliesModel.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T14:51:57.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T14:51:57.52Z"
             },
             {
               "$type": "Document",
@@ -498,8 +485,7 @@
               "RelativeToolTip": "Environment.Core\\Commands\\RotateFamilies.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T18:03:23.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T18:03:23.014Z"
             },
             {
               "$type": "Document",

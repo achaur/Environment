@@ -112,7 +112,7 @@
 
 		<DirectoryRef Id="INSTALLFOLDER" FileSource="..\Output">
 			<Component Id="File0" Guid="{090D194B-9C28-49A1-9E4C-AF190BED2545}">
-				<File Id="FileAddinFile" Name="Environment.addin" KeyPath="yes"></File>
+				<File Id="FileAddinFile" Name="Environment+Nastya.addin" KeyPath="yes"></File>
 			</Component>
 		</DirectoryRef>
 
@@ -151,7 +151,7 @@
 
 		<DirectoryRef Id="INSTALLFOLDER_2021" FileSource="..\Output">
 			<Component Id="File0_2021" Guid="{81471C9A-64DA-4761-B61C-7DA01DC531F5}">
-				<File Id="FileAddinFile_2021" Name="Environment.addin" KeyPath="yes"></File>
+				<File Id="FileAddinFile_2021" Name="Environment+Nastya.addin" KeyPath="yes"></File>
 			</Component>
 		</DirectoryRef>
 
@@ -190,7 +190,7 @@
 
 		<DirectoryRef Id="INSTALLFOLDER_2022" FileSource="..\Output">
 			<Component Id="File0_2022" Guid="{2AE8A7C3-A5F2-480A-A081-BD13EA287607}">
-				<File Id="FileAddinFile_2022" Name="Environment.addin" KeyPath="yes"></File>
+				<File Id="FileAddinFile_2022" Name="Environment+Nastya.addin" KeyPath="yes"></File>
 			</Component>
 		</DirectoryRef>
 
@@ -229,7 +229,7 @@
 
 		<DirectoryRef Id="INSTALLFOLDER_2023" FileSource="..\Output">
 			<Component Id="File0_2023" Guid="{C9D99567-5080-49AA-AA09-68DBBF94D95F}">
-				<File Id="FileAddinFile_2023" Name="Environment.addin" KeyPath="yes"></File>
+				<File Id="FileAddinFile_2023" Name="Environment+Nastya.addin" KeyPath="yes"></File>
 			</Component>
 		</DirectoryRef>
 
@@ -268,7 +268,7 @@
 
 		<DirectoryRef Id="INSTALLFOLDER_2024" FileSource="..\Output">
 			<Component Id="File0_2024" Guid="{5E4DEE11-A24C-4C87-9CF6-A87C7D07B16E}">
-				<File Id="FileAddinFile_2024" Name="Environment.addin" KeyPath="yes"></File>
+				<File Id="FileAddinFile_2024" Name="Environment+Nastya.addin" KeyPath="yes"></File>
 			</Component>
 		</DirectoryRef>
 
@@ -307,7 +307,7 @@
 		
 		<DirectoryRef Id="INSTALLFOLDER_2025" FileSource="..\Output">
 			<Component Id="File0_2025" Guid="{6937B6D0-C976-41F7-B46B-6D9BCDBA9D20}">
-				<File Id="FileAddinFile_2025" Name="Environment.addin" KeyPath="yes"></File>
+				<File Id="FileAddinFile_2025" Name="Environment+Nastya.addin" KeyPath="yes"></File>
 			</Component>
 		</DirectoryRef>
 
